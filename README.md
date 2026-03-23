@@ -1,8 +1,16 @@
 # AI-for-Math-calendar-2026
-Calendar of 2026 deadlines related to AI for Math. Includes deadlines for 2027 conferences. Includes some theoretical computer science conferences related to logic and proof theory (my personal interest).
-Exact 2026 deadlines are listed as separate dated entries inside the relevant month so they are visible in the main calendar.
+Calendar of 2026 deadlines related to AI for Math:
+- Includes deadlines for 2027 conferences
+- Includes some theoretical computer science conferences related to logic and proof theory (a personal interest of mine)
 
-_Last verified: 2026-03-23_
+I tried gathering important deadlines and dates from three areas:
+- formal verification
+- major AI conferences + AI conferences that might contain reasoning-related content
+- logic, proof theory and complexity theory - just a personal interest of mine
+
+Note that this is a lot of contents - might contain errors, so please verify manually for the conferences you care about! Notify me of any error and I'll correct. If you feel a conference should be included in this list and isn't, let me know - I will likely add it ;)
+
+_Last checked: 2026-03-23_
 
 ### January 2026
 - **Deadline:** ACL 2026 ARR submission (`2026-01-05`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
