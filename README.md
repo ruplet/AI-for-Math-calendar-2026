@@ -141,6 +141,7 @@ _Last checked: 2026-03-23_
   - Category: AI; Verification; Formalization
   - Notes: Talk by Theodore Ehrenborg (Beneficial AI Foundation and PIBBSS)
   - Website: https://luma.com/nk8ce7so
+- **Deadline:** MFPS paper submission (`2026-03-12` AoE; extended from `2026-03-05` AoE; related event: MFPS 2026, `2026-06-01` to `2026-06-03`; [website](https://ul-fmf.github.io/mfps-sstt-2026//))
 
 - **Deadline:** ACL 2026 commitment (`2026-03-14`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
 - **Deadline:** ICLR 2026 early registration (`2026-03-14`; related event: ICLR 2026, `2026-04-23` to `2026-04-27`)
@@ -212,9 +213,11 @@ _Last checked: 2026-03-23_
   - Website: https://iclr.cc/
 
 - **Deadline:** SSTT 2026 notification (`2026-04-23`; related event: SSTT 2026, `2026-06-04` to `2026-06-05`)
+- **Deadline:** MFPS 2026 notification (`2026-04-23`; related event: MFPS 2026, `2026-06-01` to `2026-06-03`; [website](https://ul-fmf.github.io/mfps-sstt-2026//))
 - **Deadline:** MFCS 2026 paper (`2026-04-24`; related event: MFCS 2026, `2026-08-24` to `2026-08-28`)
 - **Deadline:** ThEdu 2026 submission (`2026-04-29`; related event: ThEdu 2026, `2026-07-19`)
 - **Deadline:** AIPV 2026 camera-ready (`2026-04-30`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
+- **Deadline:** CICM 2026 workshop/tutorial proposal (`2026-04-30`; related event: CICM 2026 Workshops/Tutorials, `2026-09-21` to `2026-09-25`)
 
 ### May 2026
 
@@ -238,6 +241,7 @@ _Last checked: 2026-03-23_
 - **Deadline:** AITP 2026 submission (`2026-05-05`; related event: AITP 2026, `2026-08-30` to `2026-09-04`)
 - **Deadline:** WoLLIC 2026 notification (`2026-05-05`; related event: WoLLIC 2026, `2026-08-03` to `2026-08-06`)
 - **Deadline:** NeurIPS 2026 full paper (`2026-05-06`; related event: NeurIPS 2026, `2026-12-06` to `2026-12-12`)
+- **Deadline:** CICM 2026 workshop/tutorial notification (`2026-05-07`; related event: CICM 2026 Workshops/Tutorials, `2026-09-21` to `2026-09-25`)
 - **Deadline:** Lean Workshop 2026 notification (`2026-05-08`; related event: Lean Workshop 2026, `2026-07-25`)
 - **MIT PLR Workshop 2026**
   - Event date: `2026-05-08`
@@ -267,6 +271,12 @@ _Last checked: 2026-03-23_
 - **Deadline:** Structure Meets Power 2026 notification (`2026-05-30`; related event: Structure Meets Power 2026, `2026-07-18`)
 
 ### June 2026
+
+- **MFPS 2026**
+  - Event dates: `2026-06-01` to `2026-06-03`
+  - Deadlines: paper `2026-03-05` AoE (extended to `2026-03-12` AoE); notification `2026-04-23`
+  - Notes: Registration deadline TBA
+  - Website: https://ul-fmf.github.io/mfps-sstt-2026//
 
 - **Deadline:** DIALOCO 2026 early registration (`2026-06-01`; related event: DIALOCO 2026, `2026-07-19`)
 - **Deadline:** ThEdu 2026 early registration (`2026-06-01`; related event: ThEdu 2026, `2026-07-19`)
@@ -538,6 +548,11 @@ _Last checked: 2026-03-23_
   - Website: https://fmcad.org/FMCAD26/vstte/
 
 - **Deadline:** EMNLP 2026 camera-ready (`2026-09-20`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
+- **CICM 2026 Workshops/Tutorials**
+  - Event dates: `2026-09-21` to `2026-09-25`
+  - Deadlines: proposal submission `2026-04-30`; notification `2026-05-07`
+  - Website: https://cicm-conference.org/2026/cicm.php
+
 - **CICM 2026**
   - Event dates: `2026-09-21` to `2026-09-25`
   - Location: Ljubljana, Slovenia
