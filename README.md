@@ -185,6 +185,12 @@ _Last checked: 2026-03-23_
   - Deadlines: ESOP round 1 `2025-06-03`; ESOP round 2 `2025-10-16`; FASE `2025-10-16`; FoSSaCS `2025-10-16`; TACAS `2025-10-16`
   - Website: https://etaps.org/2026/
 
+- **Milestones of Autonomous Mathematics**
+  - Event dates: `2026-04-13` to `2026-04-17`
+  - Category: AI
+  - Notes: Co-sponsored by ICARM and Principia Labs; limited funding is available; to apply, send a CV and brief statement of interest to `events@icarm.io`; single-day or online participation may be possible if there is sufficient interest
+  - Website: https://icarm.io/project/milestones-of-autonomous-mathematics/
+
 - **Deadline:** IJCAR 2026 notification (`2026-04-14`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** AIPV 2026 notification (`2026-04-15`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
 - **Deadline:** UNSOUND 2026 notification (`2026-04-15`; related event: UNSOUND 2026, `2026-06-30`)
