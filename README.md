@@ -10,8 +10,8 @@ Note that this is a lot of contents - might contain errors, so please verify man
 
 _Last checked: 2026-03-29_
 
-### Student volunteering deadlines not yet posted
-- **FLoC 2026 student volunteers** (covers CAV 2026 and LICS 2026): expected deadline `mid-May 2026` (exact date TBA); https://www.floc26.org/registration
+### Student volunteering opportunities with incomplete deadline information
+- **FLoC 2026 student volunteers** (covers CAV 2026 and LICS 2026): application is open; approximate deadline `mid-May 2026`; registration waived for accepted volunteers, but travel and accommodation are not covered; https://www.floc26.org/registration
 - **ECOOP 2026 student volunteers:** volunteer program confirmed, but application details and deadline are not posted yet; https://2026.ecoop.org/track/ecoop-2026-student-volunteers
 - **ICFP 2026 student volunteers:** the student-volunteer deadline is not posted yet, but a public 2026 call is expected; the Artifact Evaluation Committee volunteer call is already tracked below; https://icfp26.sigplan.org/
 - **SPLASH/ISSTA 2026 student volunteers:** volunteer program confirmed, but the 2026 deadline is not posted yet; https://2026.splashcon.org/track/splash-issta-2026-student-volunteers
@@ -44,7 +44,7 @@ _Last checked: 2026-03-29_
   - Category: Formalization; Verification
 
 - **Job deadline:** Multiple Postdoc and Faculty Positions at FORM (Denmark) (`2026-01-11`; Lean4 Zulip `job-postings`)
-- **Deadline:** IJCAI 2026 abstract submission (`2026-01-12`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
+- **Deadline:** IJCAI 2026 abstract submission (`2026-01-12` AoE; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **Job deadline:** Permanent junior CNRS position in formalization / AI for mathematics (`2026-01-12` at `13:00` Paris time; Lean4 Zulip `job-postings`)
 
 - **PADL 2026**
@@ -80,7 +80,7 @@ _Last checked: 2026-03-29_
   - Website: https://popl26.sigplan.org/home/rocqpl-2026
 
 - **Deadline:** SPLASH/ISSTA 2026 workshops proposal (`2026-01-17`; [website](https://2026.splashcon.org/))
-- **Deadline:** IJCAI 2026 full paper (`2026-01-19`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
+- **Deadline:** IJCAI 2026 full paper (`2026-01-19` AoE; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 
 - **Lean Together 2026**
   - Event dates: `2026-01-19` to `2026-01-23`
@@ -152,6 +152,7 @@ _Last checked: 2026-03-29_
 - **Job deadline:** Formal Verification of Statistical Model Checking Algorithms (King's College London PhD) (`2026-03-02`; Lean4 Zulip `job-postings`)
 - **Deadline:** TYPES 2026 early registration (`2026-03-02`; related event: TYPES 2026, `2026-05-04` to `2026-05-08`)
 - **Deadline:** WoLLIC 2026 abstract/full paper (`2026-03-02`; related event: WoLLIC 2026, `2026-08-03` to `2026-08-06`)
+- **Deadline:** IJCAI 2026 Phase I notification (`2026-03-04`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **Deadline:** SAT 2026 full paper (`2026-03-06`; related event: SAT 2026, `2026-07-20` to `2026-07-23`)
 - **Deadline:** ACL 2026 reviews (`2026-03-10`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
 - **Guaranteed Safe AI Seminars: Benchmarks for AI-assisted Formal Verification**
@@ -201,6 +202,7 @@ _Last checked: 2026-03-29_
 - **Deadline:** ACL 2026 acceptance (`2026-04-04`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
 - **Deadline:** ECOOP 2026 demos submission (`2026-04-05`; [website](https://2026.ecoop.org/))
 - **Deadline:** PLDI 2026 ARRAY submission (`2026-04-06`; [website](https://pldi26.sigplan.org/))
+- **Deadline:** IJCAI 2026 author response (`2026-04-07` to `2026-04-10`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **AITPM (AI and Theorem Provers in Mathematics) Workshop**
   - Event dates: `2026-04-08` to `2026-04-10`
   - Location: Online
@@ -262,6 +264,7 @@ _Last checked: 2026-03-29_
 - **Deadline:** SSTT 2026 notification (`2026-04-23`; related event: SSTT 2026, `2026-06-04` to `2026-06-05`)
 - **Deadline:** MFPS 2026 notification (`2026-04-23`; related event: MFPS 2026, `2026-06-01` to `2026-06-03`; [website](https://ul-fmf.github.io/mfps-sstt-2026//))
 - **Deadline:** MFCS 2026 paper (`2026-04-24`; related event: MFCS 2026, `2026-08-24` to `2026-08-28`)
+- **Deadline:** IJCAI 2026 paper notification (`2026-04-29`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **Deadline:** ThEdu 2026 submission (`2026-04-29`; related event: ThEdu 2026, `2026-07-19`)
 - **Deadline:** AIPV 2026 camera-ready (`2026-04-30`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
 - **Deadline:** CICM 2026 workshop/tutorial proposal (`2026-04-30`; related event: CICM 2026 Workshops/Tutorials, `2026-09-21` to `2026-09-25`)
@@ -300,10 +303,10 @@ _Last checked: 2026-03-29_
 - **Deadline:** LCC 2026 submission (`2026-05-10`; related event: LCC 2026, `2026-07-18` to `2026-07-19`)
 - **Deadline:** ICFP 2026 papers conditional acceptance notification (`2026-05-14`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** Erlang 2026 submission (`2026-05-14`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** IJCAI 2026 camera-ready copy (`2026-05-15`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **Deadline:** Structure Meets Power 2026 abstract (`2026-05-15`; related event: Structure Meets Power 2026, `2026-07-18`)
 - **Deadline:** ML4SP 2026 submission (`2026-05-15`; related event: ML4SP 2026, `2026-07-18`)
 - **Deadline:** DIALOCO 2026 notification (`2026-05-15`; related event: DIALOCO 2026, `2026-07-19`)
-- **Deadline:** IJCAI 2026 notification (`2026-05-15`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 - **Deadline:** Onward! 2026 papers submission (`2026-05-15`; [website](https://2026.splashcon.org/))
 - **Deadline:** Onward! 2026 essays submission (`2026-05-15`; [website](https://2026.splashcon.org/))
 - **Deadline:** LCC 2026 notification (`2026-05-17`; related event: LCC 2026, `2026-07-18` to `2026-07-19`)
@@ -455,7 +458,7 @@ _Last checked: 2026-03-29_
   - Event dates: `2026-07-13` to `2026-07-29`
   - Location: Lisbon, Portugal
   - Category: Logic; Theoretical CS
-  - Notes: Umbrella student-volunteer program covers CAV 2026 and LICS 2026; the registration page says applications remain open until mid-May 2026
+  - Notes: Umbrella student-volunteer program covers CAV 2026 and LICS 2026; the application is open and remains open until approximately mid-May 2026; accepted volunteers get the registration fee waived, but travel and accommodation are not covered
   - Website: https://www.floc26.org/registration
 
 - **SAT/SMT/AR Summer School 2026**
@@ -621,12 +624,11 @@ _Last checked: 2026-03-29_
 - **Deadline:** Onward! 2026 papers conditional-accept revisions notification (`2026-08-14`; [website](https://2026.splashcon.org/))
 
 - **IJCAI 2026**
-  - Event dates: `2026-08-15` to `2026-08-21`
-  - Location: Bremen, Germany
+  - Event dates: workshops and tutorials `2026-08-15` to `2026-08-17`; main conference `2026-08-18` to `2026-08-21`
   - Category: AI
-  - Deadlines: abstract `2026-01-12`; full paper `2026-01-19`; notification `2026-05-15`
-  - Notes: No live 2026 volunteer call yet, but the local coordination page already lists Student Volunteer Chairs and the site has active D&I activities; historically, volunteers received free student registration
-  - Website: https://ijcai26.org/
+  - Deadlines: main track abstract `2026-01-12` AoE; main track full paper `2026-01-19` AoE; special tracks / survey track full paper `2026-01-19` AoE; Phase I notification `2026-03-04`; author response `2026-04-07` to `2026-04-10`; paper notification `2026-04-29`; camera-ready copy `2026-05-15`
+  - Notes: Opening reception `2026-08-17`; Industry Day `2026-08-19` (tentative); no live 2026 student volunteer call is posted yet, but the local coordination page lists Student Volunteer Chairs
+  - Website: https://2026.ijcai.org/
 
 - **UAI 2026**
   - Event dates: `2026-08-17` to `2026-08-21`
