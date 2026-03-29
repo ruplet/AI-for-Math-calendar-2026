@@ -8,7 +8,17 @@ I tried gathering important deadlines and dates from three areas:
 
 Note that this is a lot of contents - might contain errors, so please verify manually for the conferences you care about! Notify me of any error and I'll correct. If you feel a conference should be included in this list and isn't, let me know - I will likely add it ;)
 
-_Last checked: 2026-03-23_
+_Last checked: 2026-03-29_
+
+### Student volunteering deadlines not yet posted
+- **FLoC 2026 student volunteers** (covers CAV 2026 and LICS 2026): expected deadline `mid-May 2026` (exact date TBA); https://www.floc26.org/registration
+- **ECOOP 2026 student volunteers:** volunteer program confirmed, but application details and deadline are not posted yet; https://2026.ecoop.org/track/ecoop-2026-student-volunteers
+- **ICFP 2026 student volunteers:** the student-volunteer deadline is not posted yet, but a public 2026 call is expected; the Artifact Evaluation Committee volunteer call is already tracked below; https://icfp26.sigplan.org/
+- **SPLASH/ISSTA 2026 student volunteers:** volunteer program confirmed, but the 2026 deadline is not posted yet; https://2026.splashcon.org/track/splash-issta-2026-student-volunteers
+- **ACL 2026 student volunteers / D&I subsidies:** volunteer and subsidy pages exist but currently say "Coming soon!"; historical volunteer deadline `2025-06-06`; https://2026.aclweb.org/calls/volunteers/ and https://2026.aclweb.org/calls/subsidies/
+- **EMNLP 2026 student volunteers / subsidies:** volunteer and subsidy pages exist, but currently appear stale and still show EMNLP 2025 text; 2026 deadline TBA; https://2026.emnlp.org/calls/volunteers/ and https://2026.emnlp.org/calls/subsidies/
+- **IJCAI-ECAI 2026 student volunteers:** no live 2026 volunteer call yet, but Student Volunteer Chairs are already listed; historical volunteer deadline `2025-06-01` AoE; https://2026.ijcai.org/local-coordination/
+- **COLM 2026 volunteering / financial assistance:** the programs page says Financial Assistance, Childcare, and Volunteering announcements are coming soon; historical deadline `2025-07-31`; https://colmweb.org/programs.html
 
 ### January 2026
 - **Deadline:** ACL 2026 ARR submission (`2026-01-05`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
@@ -25,7 +35,7 @@ _Last checked: 2026-03-23_
   - Event dates: `2026-01-11` to `2026-01-17`
   - Location: Rennes, France
   - Category: Verification; Theoretical CS
-  - Deadlines: paper `2025-07-10` AoE
+  - Deadlines: paper `2025-07-10` AoE; student volunteering `2025-11-10` AoE
   - Website: https://popl26.sigplan.org/
 
 - **Tutorial on probabilistic program verification in Iris at POPL**
@@ -60,6 +70,7 @@ _Last checked: 2026-03-23_
 
 - **Job deadline:** (Post-)Doctoral positions at Chapman University 2026 (doctoral track) (`2026-01-15`; Lean4 Zulip `job-postings`)
 - **Deadline:** LICS 2026 title/short abstract (`2026-01-15`; related event: LICS 2026, `2026-07-20` to `2026-07-23`)
+- **Deadline:** ICFP 2026 workshop proposal (`2026-01-15`; [website](https://icfp26.sigplan.org/))
 
 - **RocqPL 2026**
   - Event date: `2026-01-17`
@@ -68,6 +79,7 @@ _Last checked: 2026-03-23_
   - Deadlines: submission `2025-10-31`; notification `2025-11-28`
   - Website: https://popl26.sigplan.org/home/rocqpl-2026
 
+- **Deadline:** SPLASH/ISSTA 2026 workshops proposal (`2026-01-17`; [website](https://2026.splashcon.org/))
 - **Deadline:** IJCAI 2026 full paper (`2026-01-19`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
 
 - **Lean Together 2026**
@@ -98,6 +110,7 @@ _Last checked: 2026-03-23_
   - Category: Programming Languages; Formalization
 
 - **Deadline:** CAV 2026 full paper (`2026-01-28`; related event: CAV 2026, `2026-07-26` to `2026-07-29`)
+- **Deadline:** ISSTA 2026 research papers submission (`2026-01-29`; [website](https://2026.splashcon.org/))
 - **Deadline:** ICML 2026 full paper (`2026-01-29`; related event: ICML 2026, `2026-07-06` to `2026-07-11`)
 - **Deadline:** FSCD 2026 full paper (`2026-01-30`; related event: FSCD 2026, `2026-07-20` to `2026-07-23`)
 - **Job deadline:** PhD position in Saint-Etienne and Paris (`2026-01-31`; Lean4 Zulip `job-postings`)
@@ -105,13 +118,19 @@ _Last checked: 2026-03-23_
 
 ### February 2026
 - **Job deadline:** PhD and Postdoc in (Formalized) Quantum Software, Aarhus, Denmark (`2026-02-01`; Lean4 Zulip `job-postings`)
+- **Deadline:** SPLASH/ISSTA 2026 workshops notification (`2026-02-01`; [website](https://2026.splashcon.org/))
 - **Deadline:** ICALP 2026 abstract (`2026-02-03`; related event: ICALP 2026, `2026-07-07` to `2026-07-10`)
+- **Deadline:** OOPSLA 2026 revisions due (Round 1) (`2026-02-03`; [website](https://2026.splashcon.org/))
 - **Deadline:** COLT 2026 submission (`2026-02-04`; related event: COLT 2026, `2026-06-29` to `2026-07-03`)
+- **Deadline:** SPLASH artifact evaluation 2026 artifact submission (Round 1) (`2026-02-05`; [website](https://2026.splashcon.org/))
 - **Deadline:** CCC 2026 paper (`2026-02-06`; related event: CCC 2026, `2026-08-03` to `2026-08-06`)
 - **Deadline:** ICALP 2026 full paper (`2026-02-06`; related event: ICALP 2026, `2026-07-07` to `2026-07-10`)
 - **Deadline:** IJCAR 2026 abstract (`2026-02-06`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
+- **Deadline:** SPLASH artifact evaluation 2026 kick-the-tires (Round 1) (`2026-02-09` to `2026-02-16`; [website](https://2026.splashcon.org/))
 - **Deadline:** ITP 2026 abstract (`2026-02-12`; related event: ITP 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** IJCAR 2026 full paper (`2026-02-15`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
+- **Deadline:** OOPSLA 2026 author notification revision (Round 1) (`2026-02-17`; [website](https://2026.splashcon.org/))
+- **Deadline:** ICFP 2026 papers submission (`2026-02-19`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** ITP 2026 full paper (`2026-02-19`; related event: ITP 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** TYPES 2026 accepted contributed talks (`2026-02-20`; related event: TYPES 2026, `2026-05-04` to `2026-05-08`)
 - **Job deadline:** Assistant Professor in Pure Mathematics, Utrecht University (`2026-02-23`; Lean4 Zulip `job-postings`)
@@ -123,6 +142,7 @@ _Last checked: 2026-03-23_
   - Website: https://csl2026.irif.fr/
 
 - **Deadline:** UAI 2026 submission (`2026-02-26`; related event: UAI 2026, `2026-08-17` to `2026-08-21`)
+- **Deadline:** OOPSLA 2026 camera-ready (Round 1) (`2026-02-27`; [website](https://2026.splashcon.org/))
 - **Deadline:** SAT 2026 abstract (`2026-02-27`; related event: SAT 2026, `2026-07-20` to `2026-07-23`)
 - **Job deadline:** DIAS Fellow (tenure-track assistant professor) in Formal Methods (`2026-02-28`; Lean4 Zulip `job-postings`)
 - **Deadline:** Mathlib Reviewer Bootcamp 2026 application (`2026-02-28`; related event: Mathlib Reviewer Bootcamp 2026, `2026-03-30` to `2026-04-03`)
@@ -147,10 +167,14 @@ _Last checked: 2026-03-23_
 - **Deadline:** ICLR 2026 early registration (`2026-03-14`; related event: ICLR 2026, `2026-04-23` to `2026-04-27`)
 - **Deadline:** AIPV 2026 submission (`2026-03-15`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
 - **Job deadline:** Postdoc in proof automation at MPI-SWS / TU Wien (`2026-03-15`; Lean4 Zulip `job-postings`)
+- **Deadline:** SPLASH artifact evaluation 2026 notification (Round 1) (`2026-03-16`; [website](https://2026.splashcon.org/))
+- **Deadline:** OOPSLA 2026 submission (Round 2) (`2026-03-17`; [website](https://2026.splashcon.org/))
+- **Deadline:** ISSTA 2026 research papers author response (`2026-03-24` to `2026-03-26`; [website](https://2026.splashcon.org/))
 - **Deadline:** CICM 2026 abstract (`2026-03-25`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
 - **Deadline:** COLM 2026 abstract (`2026-03-26`; related event: COLM 2026, `2026-10-06` to `2026-10-09`)
 - **Deadline:** SSTT 2026 short abstract (`2026-03-26`; related event: SSTT 2026, `2026-06-04` to `2026-06-05`)
 - **Deadline:** AI for Math Fund 2026 abstract submission (`2026-03-30`; related program: AI for Math Fund 2026 — Grant round)
+- **Deadline:** PLDI 2026 CP submission (`2026-03-30`; [website](https://pldi26.sigplan.org/))
 - **Deadline:** CAV 2026 author response (`2026-03-30` to `2026-04-01`; related event: CAV 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** IJCAR 2026 rebuttal (`2026-03-30` to `2026-03-31`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Mathlib Reviewer Bootcamp 2026**
@@ -164,19 +188,26 @@ _Last checked: 2026-03-23_
 - **Deadline:** AISTATS 2026 camera-ready (`2026-03-31`; related event: AISTATS 2026, `2026-05-02` to `2026-05-05`)
 - **Deadline:** Building the Mathematical Library of the Future application (`2026-03-31`; [website](https://www.slmath.org/axiom/412#overview_axiom); workshop runs `2027-03-15` to `2027-04-09`)
 - **Deadline:** COLM 2026 full paper (`2026-03-31`; related event: COLM 2026, `2026-10-06` to `2026-10-09`)
+- **Deadline:** ECOOP 2026 VORTEX submission (`2026-03-31`; [website](https://2026.ecoop.org/))
 - **Deadline:** UNSOUND 2026 submission (`2026-03-31`; related event: UNSOUND 2026, `2026-06-30`)
 
 ### April 2026
 
 - **Deadline:** CICM 2026 full paper (`2026-04-01`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** ECOOP 2026 demos abstract submission (`2026-04-01`; [website](https://2026.ecoop.org/))
+- **Deadline:** FTfJP 2026 notification (`2026-04-01`; [website](https://2026.ecoop.org/))
 - **Deadline:** FOCS 2026 paper (`2026-04-01` at `17:00` EDT; related event: FOCS 2026, `2026-11-08` to `2026-11-11`)
+- **Deadline:** PLDI 2026 ISMM submission (`2026-04-03`; [website](https://pldi26.sigplan.org/))
 - **Deadline:** ACL 2026 acceptance (`2026-04-04`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
+- **Deadline:** ECOOP 2026 demos submission (`2026-04-05`; [website](https://2026.ecoop.org/))
+- **Deadline:** PLDI 2026 ARRAY submission (`2026-04-06`; [website](https://pldi26.sigplan.org/))
 - **AITPM (AI and Theorem Provers in Mathematics) Workshop**
   - Event dates: `2026-04-08` to `2026-04-10`
   - Location: Online
   - Category: AI; Formalization
   - Notes: Registration is free; full programme available on the workshop website
 
+- **Deadline:** ECOOP 2026 technical papers round 2 notification (`2026-04-09`; [website](https://2026.ecoop.org/))
 - **Deadline:** AI for Math Summer Fellowship application (`2026-04-10` at `23:59` PT; related program: AI for Math Fund 2026 — Summer fellowship)
 - **ETAPS 2026**
   - Event dates: `2026-04-11` to `2026-04-16`
@@ -185,6 +216,8 @@ _Last checked: 2026-03-23_
   - Deadlines: ESOP round 1 `2025-06-03`; ESOP round 2 `2025-10-16`; FASE `2025-10-16`; FoSSaCS `2025-10-16`; TACAS `2025-10-16`
   - Website: https://etaps.org/2026/
 
+- **Deadline:** PLDI 2026 student volunteer application (`2026-04-13` AoE; [conference](https://pldi26.sigplan.org/); [student volunteering](https://pldi26.sigplan.org/track/pldi-2026-student-volunteering))
+- **Deadline:** The Scala Workshop 2026 author notification (`2026-04-13`; [website](https://2026.ecoop.org/))
 - **Milestones of Autonomous Mathematics**
   - Event dates: `2026-04-13` to `2026-04-17`
   - Category: AI
@@ -193,7 +226,10 @@ _Last checked: 2026-03-23_
 
 - **Deadline:** IJCAR 2026 notification (`2026-04-14`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** AIPV 2026 notification (`2026-04-15`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
+- **Deadline:** SOAP 2026 notification (`2026-04-15`; [website](https://pldi26.sigplan.org/))
 - **Deadline:** UNSOUND 2026 notification (`2026-04-15`; related event: UNSOUND 2026, `2026-06-30`)
+- **Deadline:** PLDI 2026 research papers camera-ready (`2026-04-16`; [website](https://pldi26.sigplan.org/))
+- **Deadline:** ISSTA 2026 research papers initial notification (`2026-04-16`; [website](https://2026.splashcon.org/))
 - **Deadline:** TYPES 2026 late registration (`2026-04-16`; related event: TYPES 2026, `2026-05-04` to `2026-05-08`)
 - **Proved Guardrails in Lean for Multi-Agent Systems**
   - Event dates: `2026-04-17` to `2026-04-18` (in person); followed by 10 days online
@@ -202,8 +238,13 @@ _Last checked: 2026-03-23_
   - Notes: Hackathon on LeanLang for Verified Autonomy; kick-off event of the Emergence Autonomous Systems lab
 
 - **Deadline:** CAV 2026 notification (`2026-04-17`; related event: CAV 2026, `2026-07-26` to `2026-07-29`)
+- **Deadline:** PROPL 2026 submission (`2026-04-17`; [website](https://pldi26.sigplan.org/))
+- **Deadline:** EGRAPHS 2026 submission (`2026-04-17`; [website](https://pldi26.sigplan.org/))
 - **Deadline:** AIPV 2026 early registration (`2026-04-18`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
+- **Deadline:** ICFP 2026 Artifact Evaluation Committee volunteer call (`2026-04-18`; [call](https://discourse.rocq-prover.org/t/volunteers-for-icfp-2026-artifact-evaluation-committee-aec/2998))
 - **Deadline:** ACL 2026 camera-ready (`2026-04-19`; related event: ACL 2026, `2026-07-02` to `2026-07-07`)
+- **Deadline:** ICFP 2026 papers reviews sent to authors (`2026-04-20`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** ICFP 2026 papers author response (`2026-04-20` to `2026-04-23`; [website](https://icfp26.sigplan.org/))
 - **Software Verification in Lean 2026**
   - Event date: `2026-04-20`
   - Location: Paris, France
@@ -257,10 +298,14 @@ _Last checked: 2026-03-23_
 
 - **Deadline:** Isabelle Workshop 2026 paper/extended abstract (`2026-05-09`; related event: Isabelle Workshop 2026, `2026-07-24` to `2026-07-25`)
 - **Deadline:** LCC 2026 submission (`2026-05-10`; related event: LCC 2026, `2026-07-18` to `2026-07-19`)
+- **Deadline:** ICFP 2026 papers conditional acceptance notification (`2026-05-14`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Erlang 2026 submission (`2026-05-14`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** Structure Meets Power 2026 abstract (`2026-05-15`; related event: Structure Meets Power 2026, `2026-07-18`)
 - **Deadline:** ML4SP 2026 submission (`2026-05-15`; related event: ML4SP 2026, `2026-07-18`)
 - **Deadline:** DIALOCO 2026 notification (`2026-05-15`; related event: DIALOCO 2026, `2026-07-19`)
 - **Deadline:** IJCAI 2026 notification (`2026-05-15`; related event: IJCAI 2026, `2026-08-15` to `2026-08-21`)
+- **Deadline:** Onward! 2026 papers submission (`2026-05-15`; [website](https://2026.splashcon.org/))
+- **Deadline:** Onward! 2026 essays submission (`2026-05-15`; [website](https://2026.splashcon.org/))
 - **Deadline:** LCC 2026 notification (`2026-05-17`; related event: LCC 2026, `2026-07-18` to `2026-07-19`)
 - **AIPV 2026**
   - Event date: `2026-05-18` or `2026-05-19`
@@ -269,10 +314,15 @@ _Last checked: 2026-03-23_
   - Deadlines: submission `2026-03-15` AoE; notification `2026-04-15`; early registration `2026-04-18`; camera-ready `2026-04-30`
   - Website: https://aipv2026.github.io/
 
+- **Deadline:** OOPSLA 2026 author response (Round 2) (`2026-05-19` to `2026-05-22`; [website](https://2026.splashcon.org/))
 - **Deadline:** WoLLIC 2026 camera-ready (`2026-05-20`; related event: WoLLIC 2026, `2026-08-03` to `2026-08-06`)
+- **Deadline:** LOPSTR+PPDP 2026 abstract registration (`2026-05-20`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** ISSTA 2026 research papers major revision submission (`2026-05-21`; [website](https://2026.splashcon.org/))
+- **Deadline:** Haskell Symposium 2026 paper and talk submission (`2026-05-21`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** CICM 2026 reviews (`2026-05-22`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
 - **Deadline:** EMNLP 2026 ARR submission (`2026-05-25`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
 - **Deadline:** CICM 2026 rebuttal (`2026-05-27`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** LOPSTR+PPDP 2026 paper submission (`2026-05-27`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** ThEdu 2026 notification (`2026-05-27`; related event: ThEdu 2026, `2026-07-19`)
 - **Deadline:** Structure Meets Power 2026 notification (`2026-05-30`; related event: Structure Meets Power 2026, `2026-07-18`)
 
@@ -285,8 +335,10 @@ _Last checked: 2026-03-23_
   - Website: https://ul-fmf.github.io/mfps-sstt-2026//
 
 - **Deadline:** DIALOCO 2026 early registration (`2026-06-01`; related event: DIALOCO 2026, `2026-07-19`)
+- **Deadline:** FUNARCH 2026 submission (`2026-06-01`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** ThEdu 2026 early registration (`2026-06-01`; related event: ThEdu 2026, `2026-07-19`)
 - **Deadline:** Lean Workshop 2026 early-bird registration (`2026-06-01`; related event: Lean Workshop 2026, `2026-07-25`)
+- **Deadline:** ICFP 2026 papers revisions due (`2026-06-03`; [website](https://icfp26.sigplan.org/))
 - **SSTT 2026**
   - Event dates: `2026-06-04` to `2026-06-05`
   - Location: Ljubljana, Slovenia
@@ -299,12 +351,33 @@ _Last checked: 2026-03-23_
   - Location: Klosterneuburg/Vienna, Austria
   - Category: Formalization; Verification
 
+- **Deadline:** SAS 2026 author response (`2026-06-09` to `2026-06-11`; [website](https://2026.splashcon.org/))
+- **Deadline:** ICFP 2026 papers final decisions (`2026-06-10`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** OOPSLA 2026 author notification (Round 2) (`2026-06-10`; [website](https://2026.splashcon.org/))
 - **Deadline:** CICM 2026 notification (`2026-06-10`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** SAS artifact evaluation 2026 author response period (`2026-06-11` to `2026-06-15`; [website](https://2026.splashcon.org/))
+- **Deadline:** EXPRESS 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
+- **Deadline:** SSNL 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
+- **Deadline:** PLSS 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
+- **Deadline:** NSAD 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
 - **Deadline:** CICM 2026 presentation-only submission (`2026-06-15`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** FUNARCH 2026 author notification (`2026-06-15`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** IJCAR 2026 camera-ready (`2026-06-15`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Program start:** AI for Math Summer Fellowship 2026 (`2026-06-15`; 10-week fellowship; [website](https://www.ai4math.org/summer-fellowship))
+- **Deadline:** Erlang 2026 notification (`2026-06-17`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** MFCS 2026 notification (`2026-06-19`; related event: MFCS 2026, `2026-08-24` to `2026-08-28`)
 - **Deadline:** AITP 2026 notification (`2026-06-20`; related event: AITP 2026, `2026-08-30` to `2026-09-04`)
+- **Deadline:** ICFP 2026 tutorials proposal (`2026-06-21`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Onward! 2026 papers decisions announced (`2026-06-22`; [website](https://2026.splashcon.org/))
+- **Deadline:** Onward! 2026 essays decisions announced (`2026-06-22`; [website](https://2026.splashcon.org/))
+- **Deadline:** ML Family Workshop 2026 submission (`2026-06-24`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** ISSTA 2026 research papers final notification (`2026-06-25`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 tool demonstrations submission (`2026-06-26`; [website](https://2026.splashcon.org/))
+- **Deadline:** SAS 2026 notification (`2026-06-26`; [website](https://2026.splashcon.org/))
+- **Deadline:** SAS artifact evaluation 2026 notification (`2026-06-26`; [website](https://2026.splashcon.org/))
+- **Deadline:** LOPSTR+PPDP 2026 author notification (`2026-06-26`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** SPLASH/ISSTA 2026 Student Research Competition submission (`2026-06-26`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 posters submission (`2026-06-26`; [website](https://2026.splashcon.org/))
 
 - **STOC 2026**
   - Event dates: `2026-06-22` to `2026-06-26`
@@ -339,14 +412,19 @@ _Last checked: 2026-03-23_
   - Deadlines: submission `2026-03-31`; notification `2026-04-15`
   - Website: https://2026.ecoop.org/home/unsound-2026
 
+- **Deadline:** Haskell Symposium 2026 author notification (`2026-06-30`; [website](https://icfp26.sigplan.org/))
+
 ### July 2026
 
 - **Deadline:** CICM 2026 camera-ready (`2026-07-01`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** ICFP 2026 papers camera-ready (`2026-07-01`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** SPLASH/ISSTA 2026 doctoral symposium submission (`2026-07-03`; [website](https://2026.splashcon.org/))
 - **ACL 2026**
   - Event dates: `2026-07-02` to `2026-07-07`
   - Location: San Diego, California, USA
   - Category: AI
   - Deadlines: ARR submission `2026-01-05`; reviews `2026-03-10`; commitment `2026-03-14`; acceptance `2026-04-04`; camera-ready `2026-04-19`
+  - Notes: Volunteer and D&I subsidy pages exist but currently say "Coming soon!"; historically, volunteers received free conference registration and ACL membership but were responsible for travel and accommodation, while separate D&I subsidies covered registration, caregiving, bandwidth, travel, and VPN
   - Website: https://2026.aclweb.org/
 
 - **ICML 2026**
@@ -357,6 +435,10 @@ _Last checked: 2026-03-23_
   - Website: https://icml.cc/Conferences/2026
 
 - **Deadline:** EMNLP 2026 author response (`2026-07-07` to `2026-07-13`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
+- **Deadline:** FUNARCH 2026 camera-ready (`2026-07-07`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Haskell Symposium 2026 camera-ready (`2026-07-07`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Erlang 2026 lightning talk submission (`2026-07-07`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Erlang 2026 camera-ready (`2026-07-07`; [website](https://icfp26.sigplan.org/))
 - **ICALP 2026**
   - Event dates: `2026-07-07` to `2026-07-10`
   - Location: Egham, UK
@@ -365,6 +447,7 @@ _Last checked: 2026-03-23_
   - Website: https://icalp2026.rhul.ac.uk/
 
 - **Deadline:** CSL 2027 abstract (`2026-07-08`; [website](https://csl2027.github.io/); conference runs `2027-01-25` to `2027-01-29`)
+- **Deadline:** LOPSTR+PPDP 2026 final paper version (`2026-07-08`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** POPL 2027 paper (`2026-07-09`; [website](https://popl27.sigplan.org/); conference runs `2027-01-10` to `2027-01-16`)
 - **Deadline:** SODA 2027 paper (`2026-07-09`; [website](https://www.siam.org/conferences-events/siam-conferences/soda27/); conference runs `2027-01-24` to `2027-01-27`)
 - **Deadline:** VSTTE 2026 abstract (`2026-07-10`; related event: VSTTE 2026, `2026-09-14`)
@@ -372,6 +455,8 @@ _Last checked: 2026-03-23_
   - Event dates: `2026-07-13` to `2026-07-29`
   - Location: Lisbon, Portugal
   - Category: Logic; Theoretical CS
+  - Notes: Umbrella student-volunteer program covers CAV 2026 and LICS 2026; the registration page says applications remain open until mid-May 2026
+  - Website: https://www.floc26.org/registration
 
 - **SAT/SMT/AR Summer School 2026**
   - Event dates: `2026-07-13` to `2026-07-17`
@@ -385,6 +470,7 @@ _Last checked: 2026-03-23_
 
 - **Deadline:** Lean Workshop 2026 registration (`2026-07-13`; related event: Lean Workshop 2026, `2026-07-25`)
 - **Deadline:** CSL 2027 paper (`2026-07-15`; [website](https://csl2027.github.io/); conference runs `2027-01-25` to `2027-01-29`)
+- **Deadline:** SAS 2026 camera-ready (`2026-07-17`; [website](https://2026.splashcon.org/))
 - **Deadline:** VSTTE 2026 paper (`2026-07-17`; related event: VSTTE 2026, `2026-09-14`)
 
 - **LCC 2026**
@@ -434,6 +520,7 @@ _Last checked: 2026-03-23_
   - Location: Lisbon, Portugal
   - Category: Logic; Theoretical CS
   - Deadlines: title/short abstract `2026-01-15`; full paper `2026-01-22`
+  - Notes: Student volunteering is handled via the FLoC 2026 umbrella program; exact application deadline not posted yet
   - Website: https://lics.siglog.org/lics26/
 
 - **SAT 2026**
@@ -443,6 +530,13 @@ _Last checked: 2026-03-23_
   - Deadlines: abstract `2026-02-27`; full paper `2026-03-06`
   - Website: https://sat2026.floc26.org/
 
+- **Deadline:** OOPSLA 2026 revision due (Round 2) (`2026-07-21`; [website](https://2026.splashcon.org/))
+- **Deadline:** ML Family Workshop 2026 initial author notification (`2026-07-23`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** ISSTA 2026 research papers camera-ready (`2026-07-23`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH artifact evaluation 2026 artifact submission (Round 2) (`2026-07-23`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 tool demonstrations notification (`2026-07-24`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 posters notification (`2026-07-24`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 Student Research Competition notification (`2026-07-24`; [website](https://2026.splashcon.org/))
 - **Isabelle Workshop 2026**
   - Event dates: `2026-07-24` to `2026-07-25`
   - Location: Lisbon, Portugal
@@ -462,6 +556,7 @@ _Last checked: 2026-03-23_
   - Location: Lisbon, Portugal
   - Category: Verification
   - Deadlines: full paper `2026-01-28`; author response `2026-03-30` to `2026-04-01`; notification `2026-04-17`
+  - Notes: Student volunteering is handled via the FLoC 2026 umbrella program; exact application deadline not posted yet
   - Website: https://conferences.i-cav.org/2026/
 
 - **IJCAR 2026**
@@ -479,7 +574,15 @@ _Last checked: 2026-03-23_
   - Deadlines: abstract `2026-02-12` AoE; full paper `2026-02-19` AoE
   - Website: https://itp-conference-2026.github.io/
 
+- **Deadline:** Onward! 2026 essays conditional-accept revisions due (`2026-07-27`; [website](https://2026.splashcon.org/))
+- **Deadline:** Onward! 2026 papers conditional-accept revisions due (`2026-07-27`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH artifact evaluation 2026 kick-the-tires (Round 2) (`2026-07-27` to `2026-08-03`; [website](https://2026.splashcon.org/))
 - **Deadline:** EMNLP 2026 meta-review (`2026-07-30`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
+- **Deadline:** ML Family Workshop 2026 final author notification (`2026-07-30`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** SSNL 2026 author notification (`2026-07-31`; [website](https://2026.splashcon.org/))
+- **Deadline:** EXPRESS 2026 author notification (`2026-07-31`; [website](https://2026.splashcon.org/))
+- **Deadline:** PLSS 2026 author notification (`2026-07-31`; [website](https://2026.splashcon.org/))
+- **Deadline:** NSAD 2026 author notification (`2026-07-31`; [website](https://2026.splashcon.org/))
 
 ### August 2026
 
@@ -498,6 +601,13 @@ _Last checked: 2026-03-23_
   - Deadlines: abstract/full paper `2026-03-02`; notification `2026-05-05`; camera-ready `2026-05-20`
   - Website: https://wollic.org/wollic2026/
 
+- **Deadline:** SPLASH/ISSTA 2026 doctoral symposium author notification (`2026-08-04`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 tool demonstrations poster registration (`2026-08-07`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 tool demonstrations camera-ready (`2026-08-07`; [website](https://2026.splashcon.org/))
+- **Deadline:** OOPSLA 2026 author notification revision (Round 2) (`2026-08-07`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 posters poster registration (`2026-08-07`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 posters camera-ready (`2026-08-07`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH/ISSTA 2026 Student Research Competition camera-ready (`2026-08-07`; [website](https://2026.splashcon.org/))
 - **Summer School on Programming Languages, Logic, and Software Security**
   - Event dates: `2026-08-10` to `2026-08-14`
   - Location: Aarhus University (INCUBA Katrinebjerg), Aarhus, Denmark
@@ -505,11 +615,17 @@ _Last checked: 2026-03-23_
   - Notes: Aimed at PhD students and advanced B.Sc./M.Sc. students
   - Website: https://conferences.au.dk/pls
 
+- **Deadline:** FUNARCH 2026 submission (second listed deadline on the ICFP page) (`2026-08-10`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** Onward! 2026 essays conditional-accept revisions notification (`2026-08-14`; [website](https://2026.splashcon.org/))
+- **Deadline:** OOPSLA 2026 camera-ready (Round 2) (`2026-08-14`; [website](https://2026.splashcon.org/))
+- **Deadline:** Onward! 2026 papers conditional-accept revisions notification (`2026-08-14`; [website](https://2026.splashcon.org/))
+
 - **IJCAI 2026**
   - Event dates: `2026-08-15` to `2026-08-21`
   - Location: Bremen, Germany
   - Category: AI
   - Deadlines: abstract `2026-01-12`; full paper `2026-01-19`; notification `2026-05-15`
+  - Notes: No live 2026 volunteer call yet, but the local coordination page already lists Student Volunteer Chairs and the site has active D&I activities; historically, volunteers received free student registration
   - Website: https://ijcai26.org/
 
 - **UAI 2026**
@@ -517,10 +633,13 @@ _Last checked: 2026-03-23_
   - Location: Amsterdam, Netherlands
   - Category: AI
   - Deadlines: submission `2026-02-26` 11:59 UTC
+  - Notes: No live 2026 scholarship or volunteering page yet; historically, scholarship awardees could be asked to do light volunteering work and the support mainly covered free or reduced registration
   - Website: https://www.auai.org/uai2026/
 
 - **Deadline:** EMNLP 2026 acceptance (`2026-08-20`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
 - **Deadline:** VSTTE 2026 notification (`2026-08-22`; related event: VSTTE 2026, `2026-09-14`)
+- **Deadline:** Onward! 2026 papers camera-ready (`2026-08-25`; [website](https://2026.splashcon.org/))
+- **Deadline:** Onward! 2026 essays camera-ready (`2026-08-25`; [website](https://2026.splashcon.org/))
 
 - **MFCS 2026**
   - Event dates: `2026-08-24` to `2026-08-28`
@@ -535,6 +654,9 @@ _Last checked: 2026-03-23_
   - Category: AI; Formalization
   - Deadlines: submission `2026-05-05`; notification `2026-06-20`
   - Website: https://aitp-conference.org/
+
+- **Deadline:** SPLASH/ISSTA 2026 doctoral symposium camera-ready submission (`2026-08-30`; [website](https://2026.splashcon.org/))
+- **Deadline:** SPLASH artifact evaluation 2026 notification (Round 2) (`2026-08-30`; [website](https://2026.splashcon.org/))
 
 ### September 2026
 
@@ -573,6 +695,7 @@ _Last checked: 2026-03-23_
   - Location: San Francisco, California, USA
   - Category: AI
   - Deadlines: abstract `2026-03-26`; full paper `2026-03-31`
+  - Notes: The programs page says that Financial Assistance, Childcare, and Volunteering announcements will be posted soon; the corresponding 2025 application deadline was `2025-07-31`
   - Website: https://colmweb.org/
 
 - **Deadline:** VSTTE 2026 post-proceedings camera-ready (`2026-10-23`; related event: VSTTE 2026, `2026-09-14`)
@@ -581,6 +704,7 @@ _Last checked: 2026-03-23_
   - Location: Budapest, Hungary
   - Category: AI
   - Deadlines: ARR submission `2026-05-25`; author response `2026-07-07` to `2026-07-13`; meta-review `2026-07-30`; commitment `2026-08-02`; acceptance `2026-08-20`; camera-ready `2026-09-20`
+  - Notes: Volunteer and subsidies pages exist, but currently appear stale and still show EMNLP 2025 text; the visible subsidies information mentions registration, caregiving, bandwidth, travel, and VPN support
   - Website: https://2026.emnlp.org/
 
 - **Deadline:** POPL 2027 revision (`2026-10-26`; [website](https://popl27.sigplan.org/); conference runs `2027-01-10` to `2027-01-16`)
