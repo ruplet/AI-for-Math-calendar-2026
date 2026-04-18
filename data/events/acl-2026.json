@@ -4,12 +4,8 @@
   "kind": "event",
   "year": 2026,
   "location": "San Diego, California, USA",
-  "notes": [
-    "Volunteer and D&I subsidy pages are posted."
-  ],
-  "long_notes": [
-    "Volunteer and D&I subsidy pages are posted; historically, volunteers received free conference registration and ACL membership but were responsible for travel and accommodation, while separate D&I subsidies covered registration, caregiving, bandwidth, travel, and VPN"
-  ],
+  "notes": [],
+  "long_notes": [],
   "dates": {
     "acceptance": {
       "label": "acceptance",
@@ -61,6 +57,11 @@
       }
     }
   },
-  "related": [],
+  "related": [
+    {
+      "type": "related",
+      "event_id": "acl-2026-student-volunteers-d-and-i-subsidies"
+    }
+  ],
   "source_url": "https://2026.aclweb.org/"
 }

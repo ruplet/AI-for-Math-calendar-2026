@@ -16,14 +16,6 @@
         "value": "2026-02-28"
       }
     },
-    "application_2": {
-      "label": "application",
-      "value": {
-        "raw": "`2026-02-28` AoE",
-        "type": "date",
-        "value": "2026-02-28"
-      }
-    },
     "event": {
       "label": "event",
       "value": {

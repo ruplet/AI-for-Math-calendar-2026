@@ -22,14 +22,6 @@
         "value": "2026-03-02"
       }
     },
-    "early_registration_2": {
-      "label": "early registration",
-      "value": {
-        "raw": "`2026-03-02` AoE",
-        "type": "date",
-        "value": "2026-03-02"
-      }
-    },
     "event": {
       "label": "event",
       "value": {
@@ -47,26 +39,10 @@
         "value": "2026-04-16"
       }
     },
-    "late_registration_2": {
-      "label": "late registration",
-      "value": {
-        "raw": "`2026-04-16` AoE",
-        "type": "date",
-        "value": "2026-04-16"
-      }
-    },
     "submission": {
       "label": "submission",
       "value": {
         "raw": "`2026-01-20`",
-        "type": "date",
-        "value": "2026-01-20"
-      }
-    },
-    "submission_2": {
-      "label": "submission",
-      "value": {
-        "raw": "`2026-01-20` AoE",
         "type": "date",
         "value": "2026-01-20"
       }
