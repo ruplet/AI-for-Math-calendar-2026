@@ -8,7 +8,7 @@ I tried gathering important deadlines and dates from three areas:
 
 Note that this is a lot of contents - might contain errors, so please verify manually for the conferences you care about! Notify me of any error and I'll correct. If you feel a conference should be included in this list and isn't, let me know - I will likely add it ;)
 
-_Last checked: 2026-03-29_
+_Last checked: 2026-04-18_
 
 ### Student volunteering opportunities with incomplete deadline information
 - **FLoC 2026 student volunteers** (covers CAV 2026 and LICS 2026): application is open; approximate deadline `mid-May 2026`; registration waived for accepted volunteers, but travel and accommodation are not covered; https://www.floc26.org/registration
@@ -195,6 +195,7 @@ _Last checked: 2026-03-29_
 ### April 2026
 
 - **Deadline:** CICM 2026 full paper (`2026-04-01`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** AI4Math @ ICML 2026 paper submission opens (`2026-04-01`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
 - **Deadline:** ECOOP 2026 demos abstract submission (`2026-04-01`; [website](https://2026.ecoop.org/))
 - **Deadline:** FTfJP 2026 notification (`2026-04-01`; [website](https://2026.ecoop.org/))
 - **Deadline:** FOCS 2026 paper (`2026-04-01` at `17:00` EDT; related event: FOCS 2026, `2026-11-08` to `2026-11-11`)
@@ -272,6 +273,7 @@ _Last checked: 2026-03-29_
 ### May 2026
 
 - **Deadline:** DIALOCO 2026 abstract (`2026-05-01`; related event: DIALOCO 2026, `2026-07-19`)
+- **Deadline:** AI4Math @ ICML 2026 challenge opens (`2026-05-01`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
 - **AISTATS 2026**
   - Event dates: `2026-05-02` to `2026-05-05`
   - Location: Tangier, Morocco
@@ -324,6 +326,7 @@ _Last checked: 2026-03-29_
 - **Deadline:** Haskell Symposium 2026 paper and talk submission (`2026-05-21`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** CICM 2026 reviews (`2026-05-22`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
 - **Deadline:** EMNLP 2026 ARR submission (`2026-05-25`; related event: EMNLP 2026, `2026-10-24` to `2026-10-29`)
+- **Deadline:** AI4Math @ ICML 2026 paper submission (`2026-05-25`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
 - **Deadline:** CICM 2026 rebuttal (`2026-05-27`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
 - **Deadline:** LOPSTR+PPDP 2026 paper submission (`2026-05-27`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** ThEdu 2026 notification (`2026-05-27`; related event: ThEdu 2026, `2026-07-19`)
@@ -364,6 +367,8 @@ _Last checked: 2026-03-29_
 - **Deadline:** PLSS 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
 - **Deadline:** NSAD 2026 submission (`2026-06-14`; [website](https://2026.splashcon.org/))
 - **Deadline:** CICM 2026 presentation-only submission (`2026-06-15`; related event: CICM 2026, `2026-09-21` to `2026-09-25`)
+- **Deadline:** AI4Math @ ICML 2026 challenge deadline (`2026-06-15`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
+- **Deadline:** AI4Math @ ICML 2026 paper decision notification (`2026-06-15`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
 - **Deadline:** FUNARCH 2026 author notification (`2026-06-15`; [website](https://icfp26.sigplan.org/))
 - **Deadline:** IJCAR 2026 camera-ready (`2026-06-15`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Program start:** AI for Math Summer Fellowship 2026 (`2026-06-15`; 10-week fellowship; [website](https://www.ai4math.org/summer-fellowship))
@@ -374,6 +379,7 @@ _Last checked: 2026-03-29_
 - **Deadline:** Onward! 2026 papers decisions announced (`2026-06-22`; [website](https://2026.splashcon.org/))
 - **Deadline:** Onward! 2026 essays decisions announced (`2026-06-22`; [website](https://2026.splashcon.org/))
 - **Deadline:** ML Family Workshop 2026 submission (`2026-06-24`; [website](https://icfp26.sigplan.org/))
+- **Deadline:** AI4Math @ ICML 2026 camera-ready (`2026-06-25`; related event: 3rd AI for Math Workshop, `2026-07-10` or `2026-07-11`; [website](https://ai4math2026.github.io/))
 - **Deadline:** ISSTA 2026 research papers final notification (`2026-06-25`; [website](https://2026.splashcon.org/))
 - **Deadline:** SPLASH/ISSTA 2026 tool demonstrations submission (`2026-06-26`; [website](https://2026.splashcon.org/))
 - **Deadline:** SAS 2026 notification (`2026-06-26`; [website](https://2026.splashcon.org/))
@@ -454,6 +460,13 @@ _Last checked: 2026-03-29_
 - **Deadline:** POPL 2027 paper (`2026-07-09`; [website](https://popl27.sigplan.org/); conference runs `2027-01-10` to `2027-01-16`)
 - **Deadline:** SODA 2027 paper (`2026-07-09`; [website](https://www.siam.org/conferences-events/siam-conferences/soda27/); conference runs `2027-01-24` to `2027-01-27`)
 - **Deadline:** VSTTE 2026 abstract (`2026-07-10`; related event: VSTTE 2026, `2026-09-14`)
+- **AI4Math @ ICML 2026 (3rd AI for Math Workshop)**
+  - Event date: `2026-07-10` or `2026-07-11`
+  - Location: Seoul, South Korea (Coex Convention & Exhibition Center)
+  - Category: AI; Formalization; Verification
+  - Deadlines: challenge opens `2026-05-01`; challenge deadline `2026-06-15`; paper submission opens `2026-04-01`; paper submission `2026-05-25`; decision notification `2026-06-15`; camera-ready `2026-06-25`
+  - Notes: ICML 2026 workshop; theme: "Toward Self-Evolving Scientific Agents"
+  - Website: https://ai4math2026.github.io/
 - **FLoC 2026**
   - Event dates: `2026-07-13` to `2026-07-29`
   - Location: Lisbon, Portugal
