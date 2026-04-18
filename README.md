@@ -190,7 +190,7 @@ _Last checked: 2026-04-18_
 - **Deadline:** Building the Mathematical Library of the Future application (`2026-03-31`; [website](https://www.slmath.org/axiom/412#overview_axiom); workshop runs `2027-03-15` to `2027-04-09`)
 - **Deadline:** COLM 2026 full paper (`2026-03-31`; related event: COLM 2026, `2026-10-06` to `2026-10-09`)
 - **Deadline:** ECOOP 2026 VORTEX submission (`2026-03-31`; [website](https://2026.ecoop.org/))
-- **Deadline:** UNSOUND 2026 submission (`2026-03-31`; related event: UNSOUND 2026, `2026-06-30`)
+- **Deadline:** UNSOUND 2026 submission (`2026-04-14`; related event: UNSOUND 2026, `2026-06-30`)
 
 ### April 2026
 
@@ -230,7 +230,7 @@ _Last checked: 2026-04-18_
 - **Deadline:** IJCAR 2026 notification (`2026-04-14`; related event: IJCAR 2026, `2026-07-26` to `2026-07-29`)
 - **Deadline:** AIPV 2026 notification (`2026-04-15`; related event: AIPV 2026, `2026-05-18` or `2026-05-19`)
 - **Deadline:** SOAP 2026 notification (`2026-04-15`; [website](https://pldi26.sigplan.org/))
-- **Deadline:** UNSOUND 2026 notification (`2026-04-15`; related event: UNSOUND 2026, `2026-06-30`)
+- **Deadline:** UNSOUND 2026 author notification (`2026-04-19`; related event: UNSOUND 2026, `2026-06-30`)
 - **Deadline:** PLDI 2026 research papers camera-ready (`2026-04-16`; [website](https://pldi26.sigplan.org/))
 - **Deadline:** ISSTA 2026 research papers initial notification (`2026-04-16`; [website](https://2026.splashcon.org/))
 - **Deadline:** TYPES 2026 late registration (`2026-04-16`; related event: TYPES 2026, `2026-05-04` to `2026-05-08`)
@@ -418,7 +418,7 @@ _Last checked: 2026-04-18_
   - Event date: `2026-06-30`
   - Location: Brussels, Belgium
   - Category: Verification; Logic
-  - Deadlines: submission `2026-03-31`; notification `2026-04-15`
+  - Deadlines: submission `2026-04-14` AoE; author notification `2026-04-19`
   - Website: https://2026.ecoop.org/home/unsound-2026
 
 - **Deadline:** Haskell Symposium 2026 author notification (`2026-06-30`; [website](https://icfp26.sigplan.org/))
