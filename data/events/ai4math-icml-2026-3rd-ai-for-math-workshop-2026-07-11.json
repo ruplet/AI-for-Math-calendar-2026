@@ -1,12 +1,12 @@
 {
-  "id": "ai4math-icml-2026-3rd-ai-for-math-workshop",
+  "id": "ai4math-icml-2026-3rd-ai-for-math-workshop-2026-07-11",
   "title": "AI4Math @ ICML 2026 (3rd AI for Math Workshop)",
   "kind": "workshop",
   "year": 2026,
   "location": "Seoul, South Korea (Coex Convention & Exhibition Center)",
   "notes": [
     "ICML 2026 workshop; theme: \"Toward Self-Evolving Scientific Agents\"",
-    "The source lists the workshop on either 10 or 11 Jul 2026; this record uses 10 Jul 2026."
+    "The source lists the workshop on either 10 or 11 Jul 2026; this record uses 11 Jul 2026."
   ],
   "dates": {
     "camera_ready": {
@@ -44,9 +44,9 @@
     "event": {
       "label": "event",
       "value": {
-        "raw": "`2026-07-10`",
+        "raw": "`2026-07-11`",
         "type": "date",
-        "value": "2026-07-10"
+        "value": "2026-07-11"
       }
     },
     "paper_submission": {

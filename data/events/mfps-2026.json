@@ -5,7 +5,7 @@
   "year": 2026,
   "location": null,
   "notes": [
-    "extended from `2026-03-05` AoE",
+    "deadline extended from `2026-03-05` AoE to `2026-03-12` AoE",
     "Registration deadline TBA"
   ],
   "dates": {
@@ -29,9 +29,9 @@
     "paper": {
       "label": "paper",
       "value": {
-        "raw": "`2026-03-05` AoE (extended to `2026-03-12` AoE)",
-        "type": "text",
-        "value": "2026-03-05 AoE (extended to 2026-03-12 AoE)"
+        "raw": "`2026-03-12` AoE",
+        "type": "date",
+        "value": "2026-03-12"
       }
     },
     "paper_submission": {
