@@ -4,7 +4,9 @@
   "kind": "event",
   "year": 2026,
   "location": null,
-  "notes": [],
+  "notes": [
+    "https://discourse.rocq-prover.org/t/volunteers-for-icfp-2026-artifact-evaluation-committee-aec/2998"
+  ],
   "dates": {
     "artifact_evaluation_committee_volunteer_call": {
       "label": "Artifact Evaluation Committee volunteer call",

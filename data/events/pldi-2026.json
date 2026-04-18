@@ -4,7 +4,9 @@
   "kind": "event",
   "year": 2026,
   "location": null,
-  "notes": [],
+  "notes": [
+    "https://pldi26.sigplan.org/track/pldi-2026-student-volunteering"
+  ],
   "dates": {
     "array_submission": {
       "label": "ARRAY submission",
