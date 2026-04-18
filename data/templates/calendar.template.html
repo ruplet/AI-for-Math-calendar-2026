@@ -520,12 +520,15 @@
             return;
           }
 
-          if (!wrapper.classList.contains('is-open')) {
+          if (wrapper.classList.contains('is-open')) {
             event.preventDefault();
-            openLinks();
-            wrapper.classList.add('is-open');
+            wrapper.classList.remove('is-open');
             return;
           }
+
+          event.preventDefault();
+          openLinks();
+          wrapper.classList.add('is-open');
         });
 
         document.addEventListener('keydown', (event) => {
