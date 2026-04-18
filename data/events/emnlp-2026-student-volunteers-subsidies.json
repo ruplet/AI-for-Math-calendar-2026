@@ -1,0 +1,23 @@
+{
+  "id": "emnlp-2026-student-volunteers-subsidies",
+  "title": "EMNLP 2026 student volunteers / subsidies",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://2026.emnlp.org/calls/volunteers/",
+  "notes": [
+    "volunteer and subsidy pages exist, but currently appear stale and still show EMNLP 2025 text",
+    "https://2026.emnlp.org/calls/volunteers/ and https://2026.emnlp.org/calls/subsidies/"
+  ],
+  "dates": {
+    "deadline": {
+      "label": "deadline",
+      "value": {
+        "raw": "TBA",
+        "type": "approximate",
+        "value": "TBA"
+      }
+    }
+  },
+  "related": []
+}

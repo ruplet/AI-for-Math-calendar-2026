@@ -1,0 +1,29 @@
+{
+  "id": "soda-2026",
+  "title": "SODA 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Vancouver, Canada",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-11` to `2026-01-14`",
+        "type": "date_range",
+        "start": "2026-01-11",
+        "end": "2026-01-14"
+      }
+    },
+    "paper": {
+      "label": "paper",
+      "value": {
+        "raw": "`2025-07-14`",
+        "type": "date",
+        "value": "2025-07-14"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://www.siam.org/conferences-events/siam-conferences/soda26/"
+}

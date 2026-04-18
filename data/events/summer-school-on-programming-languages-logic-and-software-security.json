@@ -1,0 +1,23 @@
+{
+  "id": "summer-school-on-programming-languages-logic-and-software-security",
+  "title": "Summer School on Programming Languages, Logic, and Software Security",
+  "kind": "program",
+  "year": null,
+  "location": "Aarhus University (INCUBA Katrinebjerg), Aarhus, Denmark",
+  "notes": [
+    "Aimed at PhD students and advanced B.Sc./M.Sc. students"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-08-10` to `2026-08-14`",
+        "type": "date_range",
+        "start": "2026-08-10",
+        "end": "2026-08-14"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://conferences.au.dk/pls"
+}

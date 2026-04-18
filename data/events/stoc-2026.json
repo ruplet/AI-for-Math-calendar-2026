@@ -1,0 +1,29 @@
+{
+  "id": "stoc-2026",
+  "title": "STOC 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Salt Lake City, Utah, USA",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-06-22` to `2026-06-26`",
+        "type": "date_range",
+        "start": "2026-06-22",
+        "end": "2026-06-26"
+      }
+    },
+    "paper": {
+      "label": "paper",
+      "value": {
+        "raw": "`2025-11-04`",
+        "type": "date",
+        "value": "2025-11-04"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://acm-stoc.org/stoc2026/"
+}

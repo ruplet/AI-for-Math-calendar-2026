@@ -1,0 +1,76 @@
+{
+  "id": "vstte-2026",
+  "title": "VSTTE 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Graz, Austria",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-07-10`",
+        "type": "date",
+        "value": "2026-07-10"
+      }
+    },
+    "abstract_2": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-07-10` AoE",
+        "type": "date",
+        "value": "2026-07-10"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-09-14`",
+        "type": "date",
+        "value": "2026-09-14"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-08-22`",
+        "type": "date",
+        "value": "2026-08-22"
+      }
+    },
+    "optional_pre_conference_version": {
+      "label": "optional pre-conference version",
+      "value": {
+        "raw": "`2026-09-02`",
+        "type": "date",
+        "value": "2026-09-02"
+      }
+    },
+    "paper": {
+      "label": "paper",
+      "value": {
+        "raw": "`2026-07-17`",
+        "type": "date",
+        "value": "2026-07-17"
+      }
+    },
+    "paper_2": {
+      "label": "paper",
+      "value": {
+        "raw": "`2026-07-17` AoE",
+        "type": "date",
+        "value": "2026-07-17"
+      }
+    },
+    "post_proceedings_camera_ready": {
+      "label": "post-proceedings camera-ready",
+      "value": {
+        "raw": "`2026-10-23`",
+        "type": "date",
+        "value": "2026-10-23"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://fmcad.org/FMCAD26/vstte/"
+}

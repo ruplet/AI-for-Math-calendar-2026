@@ -1,0 +1,92 @@
+{
+  "id": "onward-2026",
+  "title": "Onward! 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "notes": [],
+  "dates": {
+    "essays_camera_ready": {
+      "label": "essays camera-ready",
+      "value": {
+        "raw": "`2026-08-25`",
+        "type": "date",
+        "value": "2026-08-25"
+      }
+    },
+    "essays_conditional_accept_revisions_due": {
+      "label": "essays conditional-accept revisions due",
+      "value": {
+        "raw": "`2026-07-27`",
+        "type": "date",
+        "value": "2026-07-27"
+      }
+    },
+    "essays_conditional_accept_revisions_notification": {
+      "label": "essays conditional-accept revisions notification",
+      "value": {
+        "raw": "`2026-08-14`",
+        "type": "date",
+        "value": "2026-08-14"
+      }
+    },
+    "essays_decisions_announced": {
+      "label": "essays decisions announced",
+      "value": {
+        "raw": "`2026-06-22`",
+        "type": "date",
+        "value": "2026-06-22"
+      }
+    },
+    "essays_submission": {
+      "label": "essays submission",
+      "value": {
+        "raw": "`2026-05-15`",
+        "type": "date",
+        "value": "2026-05-15"
+      }
+    },
+    "papers_camera_ready": {
+      "label": "papers camera-ready",
+      "value": {
+        "raw": "`2026-08-25`",
+        "type": "date",
+        "value": "2026-08-25"
+      }
+    },
+    "papers_conditional_accept_revisions_due": {
+      "label": "papers conditional-accept revisions due",
+      "value": {
+        "raw": "`2026-07-27`",
+        "type": "date",
+        "value": "2026-07-27"
+      }
+    },
+    "papers_conditional_accept_revisions_notification": {
+      "label": "papers conditional-accept revisions notification",
+      "value": {
+        "raw": "`2026-08-14`",
+        "type": "date",
+        "value": "2026-08-14"
+      }
+    },
+    "papers_decisions_announced": {
+      "label": "papers decisions announced",
+      "value": {
+        "raw": "`2026-06-22`",
+        "type": "date",
+        "value": "2026-06-22"
+      }
+    },
+    "papers_submission": {
+      "label": "papers submission",
+      "value": {
+        "raw": "`2026-05-15`",
+        "type": "date",
+        "value": "2026-05-15"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://2026.splashcon.org/"
+}

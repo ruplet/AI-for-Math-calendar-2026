@@ -1,0 +1,52 @@
+{
+  "id": "pldi-2026",
+  "title": "PLDI 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "notes": [],
+  "dates": {
+    "array_submission": {
+      "label": "ARRAY submission",
+      "value": {
+        "raw": "`2026-04-06`",
+        "type": "date",
+        "value": "2026-04-06"
+      }
+    },
+    "cp_submission": {
+      "label": "CP submission",
+      "value": {
+        "raw": "`2026-03-30`",
+        "type": "date",
+        "value": "2026-03-30"
+      }
+    },
+    "ismm_submission": {
+      "label": "ISMM submission",
+      "value": {
+        "raw": "`2026-04-03`",
+        "type": "date",
+        "value": "2026-04-03"
+      }
+    },
+    "research_papers_camera_ready": {
+      "label": "research papers camera-ready",
+      "value": {
+        "raw": "`2026-04-16`",
+        "type": "date",
+        "value": "2026-04-16"
+      }
+    },
+    "student_volunteer_application": {
+      "label": "student volunteer application",
+      "value": {
+        "raw": "`2026-04-13` AoE",
+        "type": "date",
+        "value": "2026-04-13"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://pldi26.sigplan.org/"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "colm-2026",
+  "title": "COLM 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "San Francisco, California, USA",
+  "notes": [
+    "Financial assistance, childcare, and volunteering announcements are still pending."
+  ],
+  "long_notes": [
+    "The programs page says that Financial Assistance, Childcare, and Volunteering announcements will be posted soon; the corresponding 2025 application deadline was `2025-07-31`"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-03-26`",
+        "type": "date",
+        "value": "2026-03-26"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-10-06` to `2026-10-09`",
+        "type": "date_range",
+        "start": "2026-10-06",
+        "end": "2026-10-09"
+      }
+    },
+    "full_paper": {
+      "label": "full paper",
+      "value": {
+        "raw": "`2026-03-31`",
+        "type": "date",
+        "value": "2026-03-31"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://colmweb.org/"
+}

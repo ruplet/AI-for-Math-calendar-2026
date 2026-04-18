@@ -1,0 +1,44 @@
+{
+  "id": "dialoco-2026",
+  "title": "DIALOCO 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Lisbon, Portugal",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-05-01`",
+        "type": "date",
+        "value": "2026-05-01"
+      }
+    },
+    "early_registration": {
+      "label": "early registration",
+      "value": {
+        "raw": "`2026-06-01`",
+        "type": "date",
+        "value": "2026-06-01"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-07-19`",
+        "type": "date",
+        "value": "2026-07-19"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-05-15`",
+        "type": "date",
+        "value": "2026-05-15"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://dialoco.github.io/dialoco26/"
+}

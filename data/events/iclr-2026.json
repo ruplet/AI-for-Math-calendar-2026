@@ -1,0 +1,53 @@
+{
+  "id": "iclr-2026",
+  "title": "ICLR 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Rio de Janeiro, Brazil",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2025-09-19` AoE",
+        "type": "date",
+        "value": "2025-09-19"
+      }
+    },
+    "early_registration": {
+      "label": "early registration",
+      "value": {
+        "raw": "`2026-03-14`",
+        "type": "date",
+        "value": "2026-03-14"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-04-23` to `2026-04-27`",
+        "type": "date_range",
+        "start": "2026-04-23",
+        "end": "2026-04-27"
+      }
+    },
+    "full_paper": {
+      "label": "full paper",
+      "value": {
+        "raw": "`2025-09-24` AoE",
+        "type": "date",
+        "value": "2025-09-24"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-01-25`",
+        "type": "date",
+        "value": "2026-01-25"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://iclr.cc/"
+}

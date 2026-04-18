@@ -1,0 +1,30 @@
+{
+  "id": "proved-guardrails-in-lean-for-multi-agent-systems",
+  "title": "Proved Guardrails in Lean for Multi-Agent Systems",
+  "kind": "event",
+  "year": null,
+  "location": "Indian Institute of Science, Bangalore, India",
+  "notes": [
+    "Hackathon on LeanLang for Verified Autonomy; kick-off event of the Emergence Autonomous Systems lab"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-04-17` to `2026-04-18` (in person)",
+        "type": "date_range",
+        "start": "2026-04-17",
+        "end": "2026-04-18"
+      }
+    },
+    "event_2": {
+      "label": "event",
+      "value": {
+        "raw": "followed by 10 days online",
+        "type": "text",
+        "value": "followed by 10 days online"
+      }
+    }
+  },
+  "related": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "milestones-of-autonomous-mathematics",
+  "title": "Milestones of Autonomous Mathematics",
+  "kind": "event",
+  "year": null,
+  "location": null,
+  "notes": [
+    "Limited funding is available."
+  ],
+  "long_notes": [
+    "Co-sponsored by ICARM and Principia Labs; limited funding is available; to apply, send a CV and brief statement of interest to `events@icarm.io`; single-day or online participation may be possible if there is sufficient interest"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-04-13` to `2026-04-17`",
+        "type": "date_range",
+        "start": "2026-04-13",
+        "end": "2026-04-17"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://icarm.io/project/milestones-of-autonomous-mathematics/"
+}

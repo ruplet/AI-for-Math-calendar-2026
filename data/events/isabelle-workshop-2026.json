@@ -1,0 +1,37 @@
+{
+  "id": "isabelle-workshop-2026",
+  "title": "Isabelle Workshop 2026",
+  "kind": "workshop",
+  "year": 2026,
+  "location": "Lisbon, Portugal",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-07-24` to `2026-07-25`",
+        "type": "date_range",
+        "start": "2026-07-24",
+        "end": "2026-07-25"
+      }
+    },
+    "paper_extended_abstract": {
+      "label": "paper/extended abstract",
+      "value": {
+        "raw": "`2026-05-09`",
+        "type": "date",
+        "value": "2026-05-09"
+      }
+    },
+    "paper_extended_abstract_2": {
+      "label": "paper/extended abstract",
+      "value": {
+        "raw": "`2026-05-09` AoE",
+        "type": "date",
+        "value": "2026-05-09"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://sketis.net/isabelle/isabelle-workshop-2026"
+}

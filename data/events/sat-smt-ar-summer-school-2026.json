@@ -1,0 +1,21 @@
+{
+  "id": "sat-smt-ar-summer-school-2026",
+  "title": "SAT/SMT/AR Summer School 2026",
+  "kind": "school",
+  "year": 2026,
+  "location": "Lisbon, Portugal",
+  "source_url": "https://sat-smt-ar-school.gitlab.io/www/2026/",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-07-13` to `2026-07-17`",
+        "type": "date_range",
+        "start": "2026-07-13",
+        "end": "2026-07-17"
+      }
+    }
+  },
+  "related": []
+}

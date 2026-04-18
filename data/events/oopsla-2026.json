@@ -1,0 +1,85 @@
+{
+  "id": "oopsla-2026",
+  "title": "OOPSLA 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "notes": [],
+  "dates": {
+    "author_notification_revision_round_1": {
+      "label": "author notification revision (Round 1)",
+      "value": {
+        "raw": "`2026-02-17`",
+        "type": "date",
+        "value": "2026-02-17"
+      }
+    },
+    "author_notification_revision_round_2": {
+      "label": "author notification revision (Round 2)",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "author_notification_round_2": {
+      "label": "author notification (Round 2)",
+      "value": {
+        "raw": "`2026-06-10`",
+        "type": "date",
+        "value": "2026-06-10"
+      }
+    },
+    "author_response_round_2": {
+      "label": "author response (Round 2)",
+      "value": {
+        "raw": "`2026-05-19` to `2026-05-22`",
+        "type": "date_range",
+        "start": "2026-05-19",
+        "end": "2026-05-22"
+      }
+    },
+    "camera_ready_round_1": {
+      "label": "camera-ready (Round 1)",
+      "value": {
+        "raw": "`2026-02-27`",
+        "type": "date",
+        "value": "2026-02-27"
+      }
+    },
+    "camera_ready_round_2": {
+      "label": "camera-ready (Round 2)",
+      "value": {
+        "raw": "`2026-08-14`",
+        "type": "date",
+        "value": "2026-08-14"
+      }
+    },
+    "revision_due_round_2": {
+      "label": "revision due (Round 2)",
+      "value": {
+        "raw": "`2026-07-21`",
+        "type": "date",
+        "value": "2026-07-21"
+      }
+    },
+    "revisions_due_round_1": {
+      "label": "revisions due (Round 1)",
+      "value": {
+        "raw": "`2026-02-03`",
+        "type": "date",
+        "value": "2026-02-03"
+      }
+    },
+    "submission_round_2": {
+      "label": "submission (Round 2)",
+      "value": {
+        "raw": "`2026-03-17`",
+        "type": "date",
+        "value": "2026-03-17"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://2026.splashcon.org/"
+}

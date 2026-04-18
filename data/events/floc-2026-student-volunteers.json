@@ -1,0 +1,33 @@
+{
+  "id": "floc-2026-student-volunteers",
+  "title": "FLoC 2026 student volunteers",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://www.floc26.org/registration",
+  "notes": [
+    "application is open",
+    "registration waived for accepted volunteers, but travel and accommodation are not covered",
+    "https://www.floc26.org/registration"
+  ],
+  "dates": {
+    "approximate_deadline": {
+      "label": "approximate_deadline",
+      "value": {
+        "raw": "`mid-May 2026`",
+        "type": "approximate",
+        "value": "mid-May 2026"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "covers_event",
+      "event_id": "cav-2026"
+    },
+    {
+      "type": "covers_event",
+      "event_id": "lics-2026"
+    }
+  ]
+}

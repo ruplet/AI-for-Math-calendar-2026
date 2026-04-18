@@ -1,0 +1,21 @@
+{
+  "id": "fmpsi",
+  "title": "FMPSI",
+  "kind": "event",
+  "year": null,
+  "location": "Orsay, France",
+  "source_url": "https://www.institut-pascal.universite-paris-saclay.fr/en/scientific-programs/formal-mathematics-and-proof-systems-interoperability-fmpsi",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-06-22` to `2026-07-03`",
+        "type": "date_range",
+        "start": "2026-06-22",
+        "end": "2026-07-03"
+      }
+    }
+  },
+  "related": []
+}

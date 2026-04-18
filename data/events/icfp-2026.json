@@ -1,0 +1,93 @@
+{
+  "id": "icfp-2026",
+  "title": "ICFP 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "notes": [],
+  "dates": {
+    "artifact_evaluation_committee_volunteer_call": {
+      "label": "Artifact Evaluation Committee volunteer call",
+      "value": {
+        "raw": "`2026-04-18`",
+        "type": "date",
+        "value": "2026-04-18"
+      }
+    },
+    "papers_author_response": {
+      "label": "papers author response",
+      "value": {
+        "raw": "`2026-04-20` to `2026-04-23`",
+        "type": "date_range",
+        "start": "2026-04-20",
+        "end": "2026-04-23"
+      }
+    },
+    "papers_camera_ready": {
+      "label": "papers camera-ready",
+      "value": {
+        "raw": "`2026-07-01`",
+        "type": "date",
+        "value": "2026-07-01"
+      }
+    },
+    "papers_conditional_acceptance_notification": {
+      "label": "papers conditional acceptance notification",
+      "value": {
+        "raw": "`2026-05-14`",
+        "type": "date",
+        "value": "2026-05-14"
+      }
+    },
+    "papers_final_decisions": {
+      "label": "papers final decisions",
+      "value": {
+        "raw": "`2026-06-10`",
+        "type": "date",
+        "value": "2026-06-10"
+      }
+    },
+    "papers_reviews_sent_to_authors": {
+      "label": "papers reviews sent to authors",
+      "value": {
+        "raw": "`2026-04-20`",
+        "type": "date",
+        "value": "2026-04-20"
+      }
+    },
+    "papers_revisions_due": {
+      "label": "papers revisions due",
+      "value": {
+        "raw": "`2026-06-03`",
+        "type": "date",
+        "value": "2026-06-03"
+      }
+    },
+    "papers_submission": {
+      "label": "papers submission",
+      "value": {
+        "raw": "`2026-02-19`",
+        "type": "date",
+        "value": "2026-02-19"
+      }
+    },
+    "tutorials_proposal": {
+      "label": "tutorials proposal",
+      "value": {
+        "raw": "`2026-06-21`",
+        "type": "date",
+        "value": "2026-06-21"
+      }
+    },
+    "workshop_proposal": {
+      "label": "workshop proposal",
+      "value": {
+        "raw": "`2026-01-15`",
+        "type": "date",
+        "value": "2026-01-15"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://icfp26.sigplan.org/"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "lean-together-2026",
+  "title": "Lean Together 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Online",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-19` to `2026-01-23`",
+        "type": "date_range",
+        "start": "2026-01-19",
+        "end": "2026-01-23"
+      }
+    },
+    "talk_abstract": {
+      "label": "talk abstract",
+      "value": {
+        "raw": "`2025-12-01`",
+        "type": "date",
+        "value": "2025-12-01"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://leanprover-community.github.io/lt2026/"
+}

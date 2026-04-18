@@ -1,0 +1,23 @@
+{
+  "id": "proof-society-2026",
+  "title": "Proof Society 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Aussois, France",
+  "source_url": "https://www.proofsociety.org/",
+  "notes": [
+    "8th International School and Workshop on Proof Theory; more details to follow"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-09-07` to `2026-09-11`",
+        "type": "date_range",
+        "start": "2026-09-07",
+        "end": "2026-09-11"
+      }
+    }
+  },
+  "related": []
+}

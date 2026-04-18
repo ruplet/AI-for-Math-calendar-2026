@@ -1,0 +1,23 @@
+{
+  "id": "acl-2026-student-volunteers-d-and-i-subsidies",
+  "title": "ACL 2026 student volunteers / D&I subsidies",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://2026.aclweb.org/calls/volunteers/",
+  "notes": [
+    "volunteer and subsidy pages exist but currently say \"Coming soon!\"",
+    "https://2026.aclweb.org/calls/volunteers/ and https://2026.aclweb.org/calls/subsidies/"
+  ],
+  "dates": {
+    "deadline": {
+      "label": "deadline",
+      "value": {
+        "raw": "historical volunteer deadline `2025-06-06`",
+        "type": "text",
+        "value": "historical volunteer deadline 2025-06-06"
+      }
+    }
+  },
+  "related": []
+}

@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AI for Math Calendar 2026</title>
+    <style>
+      :root {
+        --bg: #f6f2e8;
+        --panel: rgba(255, 252, 245, 0.9);
+        --panel-strong: #fffaf0;
+        --ink: #1f2933;
+        --muted: #52606d;
+        --line: #d9c8a9;
+        --accent: #0f766e;
+        --accent-soft: rgba(15, 118, 110, 0.12);
+        --warn: #9a3412;
+        --past: #6b7280;
+        --shadow: 0 18px 40px rgba(91, 65, 34, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: Georgia, "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at top left, rgba(255, 255, 255, 0.55), transparent 30%),
+          linear-gradient(135deg, #f3efe1 0%, #efe5d0 100%);
+      }
+
+      a {
+        color: var(--accent);
+      }
+
+      .page {
+        width: min(1280px, calc(100vw - 32px));
+        margin: 0 auto;
+        padding: 32px 0 56px;
+      }
+
+      .hero {
+        background: linear-gradient(160deg, rgba(255, 251, 240, 0.95), rgba(245, 236, 216, 0.92));
+        border: 1px solid rgba(133, 95, 44, 0.18);
+        border-radius: 24px;
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .hero-inner {
+        padding: 28px 28px 20px;
+      }
+
+      h1,
+      h2 {
+        margin: 0;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+      }
+
+      h1 {
+        font-size: clamp(2rem, 4vw, 3.4rem);
+        line-height: 1;
+      }
+
+      h2 {
+        font-size: clamp(1.35rem, 2.5vw, 1.8rem);
+        margin-bottom: 14px;
+      }
+
+      .lede {
+        max-width: 70ch;
+        margin: 12px 0 0;
+        color: var(--muted);
+        font-size: 1.02rem;
+        line-height: 1.5;
+      }
+
+      .meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      .meta-card {
+        padding: 12px 14px;
+        background: var(--panel);
+        border: 1px solid rgba(133, 95, 44, 0.15);
+        border-radius: 14px;
+        min-width: 180px;
+      }
+
+      .meta-label {
+        display: block;
+        font-size: 0.72rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+
+      .meta-value {
+        display: block;
+        margin-top: 4px;
+        font-size: 1rem;
+      }
+
+      .section {
+        margin-top: 28px;
+        background: var(--panel);
+        border: 1px solid rgba(133, 95, 44, 0.15);
+        border-radius: 24px;
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .section-header {
+        padding: 22px 24px 16px;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.7), rgba(255, 250, 240, 0.55));
+        border-bottom: 1px solid rgba(133, 95, 44, 0.12);
+      }
+
+      .section-copy {
+        margin: 8px 0 0;
+        color: var(--muted);
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        min-width: 980px;
+      }
+
+      th,
+      td {
+        padding: 14px 16px;
+        vertical-align: top;
+        border-bottom: 1px solid rgba(133, 95, 44, 0.12);
+      }
+
+      th {
+        position: sticky;
+        top: 0;
+        background: var(--panel-strong);
+        font-size: 0.82rem;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        color: var(--muted);
+        text-align: left;
+      }
+
+      tbody tr:hover {
+        background: rgba(255, 255, 255, 0.5);
+      }
+
+      .date-main {
+        display: block;
+        font-weight: 700;
+      }
+
+      .date-sub {
+        display: block;
+        margin-top: 3px;
+        color: var(--muted);
+        font-size: 0.88rem;
+      }
+
+      .event-title {
+        font-weight: 700;
+      }
+
+      .event-meta {
+        margin-top: 6px;
+        color: var(--muted);
+        font-size: 0.92rem;
+        line-height: 1.45;
+      }
+
+      .badges {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+      }
+
+      .badge {
+        display: inline-flex;
+        align-items: center;
+        padding: 4px 8px;
+        border-radius: 999px;
+        background: var(--accent-soft);
+        color: var(--accent);
+        font-size: 0.82rem;
+        white-space: nowrap;
+      }
+
+      .related-list {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      .related-list li + li {
+        margin-top: 4px;
+      }
+
+      .notes {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
+
+      .notes li + li {
+        margin-top: 6px;
+      }
+
+      .past .section-header {
+        background: linear-gradient(180deg, rgba(240, 240, 240, 0.75), rgba(255, 255, 255, 0.45));
+      }
+
+      .past th {
+        background: #f4f4f4;
+      }
+
+      .past .badge {
+        color: var(--past);
+        background: rgba(107, 114, 128, 0.12);
+      }
+
+      .empty {
+        padding: 18px 24px 24px;
+        color: var(--muted);
+      }
+
+      .footer {
+        margin-top: 20px;
+        color: var(--muted);
+        font-size: 0.92rem;
+        text-align: right;
+      }
+
+      @media (max-width: 820px) {
+        .page {
+          width: min(100vw - 20px, 1280px);
+          padding-top: 20px;
+        }
+
+        .hero-inner,
+        .section-header {
+          padding-left: 18px;
+          padding-right: 18px;
+        }
+
+        th,
+        td {
+          padding: 12px 12px;
+        }
+      }
+
+      body {
+        background: #fff;
+        color: #111;
+        font-family: inherit;
+        font-size: 1rem;
+        line-height: 1.45;
+      }
+
+      a {
+        color: #000;
+        text-decoration: underline;
+      }
+
+      .page {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 16px;
+      }
+
+      .section {
+        margin: 0 0 24px;
+        background: transparent;
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+        overflow: visible;
+      }
+
+      h1,
+      h2 {
+        margin: 0 0 8px;
+        font-weight: 700;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        font-size: 2rem;
+      }
+
+      h2 {
+        font-size: 1.25rem;
+      }
+
+      .meta-line {
+        color: #000;
+        margin: 0 0 18px;
+      }
+
+      .table-wrap {
+        overflow-x: auto;
+      }
+
+      table {
+        width: 100%;
+        min-width: 0;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        padding: 8px 10px;
+        border: 1px solid #ddd;
+        vertical-align: top;
+      }
+
+      th {
+        position: static;
+        background: #fff;
+        color: inherit;
+        text-transform: none;
+        letter-spacing: 0;
+        font-size: inherit;
+      }
+
+      tbody tr:hover {
+        background: #fff;
+      }
+
+      .date-main {
+        font-weight: 700;
+      }
+
+      .date-sub,
+      .event-meta {
+        color: #000;
+        font-size: inherit;
+      }
+
+      .notes {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      .note-none {
+        color: #000;
+      }
+
+      .ref-link {
+        position: relative;
+        display: inline-block;
+      }
+
+      .ref-popover {
+        display: none;
+        position: absolute;
+        z-index: 10;
+        top: 100%;
+        left: 0;
+        width: 380px;
+        max-width: min(380px, 80vw);
+        padding: 12px 14px;
+        border: 1px solid #000;
+        background: #fff;
+        box-shadow: none;
+      }
+
+      .ref-link:hover .ref-popover,
+      .ref-link:focus-within .ref-popover {
+        display: block;
+      }
+
+      .ref-link.is-open .ref-popover {
+        display: block;
+      }
+
+      .ref-popover-title {
+        font-weight: 700;
+        margin-bottom: 6px;
+      }
+
+      .ref-popover-sub {
+        color: #000;
+        margin-bottom: 6px;
+      }
+
+      .ref-popover-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: grid;
+        gap: 6px;
+      }
+
+      .ref-popover-list li {
+        display: grid;
+        gap: 1px;
+      }
+
+      .ref-popover-label {
+        font-weight: 700;
+      }
+
+      .ref-popover-value {
+        display: block;
+        padding-left: 1ch;
+      }
+
+      * {
+        color: #000 !important;
+        background-color: #fff !important;
+        border-color: #000 !important;
+        box-shadow: none !important;
+      }
+
+      .ref-link a {
+        color: #000 !important;
+      }
+
+      @media (hover: none), (pointer: coarse) {
+        .ref-popover {
+          position: static;
+          width: auto;
+          max-width: 100%;
+          margin-top: 8px;
+        }
+
+        .ref-link.event-ref {
+          display: block;
+        }
+      }
+
+      @media (hover: none), (pointer: coarse) and (max-width: 820px) {
+        .ref-link.event-ref {
+          display: block;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <section class="section">
+        <h1>AI for Math Calendar 2026</h1>
+        <div class="meta-line">Built {{GENERATED_AT}} | Reference date {{TODAY_LABEL}} | Events {{EVENT_COUNT}} | Rows {{ROW_COUNT}}</div>
+      </section>
+
+      <section class="section">
+        <h2>Upcoming</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Event</th>
+                <th>Milestone</th>
+                <th>Notes</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{UPCOMING_ROWS}}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="section">
+        <h2>Past Events</h2>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Event</th>
+                <th>Milestone</th>
+                <th>Notes</th>
+              </tr>
+            </thead>
+            <tbody>
+              {{PAST_ROWS}}
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      {{UNSURE_BLOCK}}
+      {{LONG_NOTES_BLOCK}}
+    </main>
+    <script>
+      (() => {
+        const touchLike = window.matchMedia('(hover: none), (pointer: coarse)');
+        if (!touchLike.matches) {
+          return;
+        }
+
+        const openLinks = () => document.querySelectorAll('.ref-link.is-open').forEach((el) => el.classList.remove('is-open'));
+
+        document.addEventListener('click', (event) => {
+          const link = event.target.closest('.ref-link.event-ref > a, .ref-link > a');
+          if (!link) {
+            openLinks();
+            return;
+          }
+
+          const wrapper = link.closest('.ref-link');
+          if (!wrapper) {
+            return;
+          }
+
+          if (!wrapper.classList.contains('is-open')) {
+            event.preventDefault();
+            openLinks();
+            wrapper.classList.add('is-open');
+            return;
+          }
+        });
+
+        document.addEventListener('keydown', (event) => {
+          if (event.key === 'Escape') {
+            openLinks();
+          }
+        });
+
+        window.addEventListener('scroll', openLinks, { passive: true });
+        window.addEventListener('resize', openLinks);
+      })();
+    </script>
+  </body>
+</html>

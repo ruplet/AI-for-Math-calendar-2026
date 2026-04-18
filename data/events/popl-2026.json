@@ -1,0 +1,37 @@
+{
+  "id": "popl-2026",
+  "title": "POPL 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Rennes, France",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-11` to `2026-01-17`",
+        "type": "date_range",
+        "start": "2026-01-11",
+        "end": "2026-01-17"
+      }
+    },
+    "paper": {
+      "label": "paper",
+      "value": {
+        "raw": "`2025-07-10` AoE",
+        "type": "date",
+        "value": "2025-07-10"
+      }
+    },
+    "student_volunteering": {
+      "label": "student volunteering",
+      "value": {
+        "raw": "`2025-11-10` AoE",
+        "type": "date",
+        "value": "2025-11-10"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://popl26.sigplan.org/"
+}

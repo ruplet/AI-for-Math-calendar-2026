@@ -1,0 +1,140 @@
+{
+  "id": "splash-issta-2026",
+  "title": "SPLASH/ISSTA 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://2026.splashcon.org/track/splash-issta-2026-student-volunteers",
+  "notes": [],
+  "dates": {
+    "doctoral_symposium_author_notification": {
+      "label": "doctoral symposium author notification",
+      "value": {
+        "raw": "`2026-08-04`",
+        "type": "date",
+        "value": "2026-08-04"
+      }
+    },
+    "doctoral_symposium_camera_ready_submission": {
+      "label": "doctoral symposium camera-ready submission",
+      "value": {
+        "raw": "`2026-08-30`",
+        "type": "date",
+        "value": "2026-08-30"
+      }
+    },
+    "doctoral_symposium_submission": {
+      "label": "doctoral symposium submission",
+      "value": {
+        "raw": "`2026-07-03`",
+        "type": "date",
+        "value": "2026-07-03"
+      }
+    },
+    "posters_camera_ready": {
+      "label": "posters camera-ready",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "posters_notification": {
+      "label": "posters notification",
+      "value": {
+        "raw": "`2026-07-24`",
+        "type": "date",
+        "value": "2026-07-24"
+      }
+    },
+    "posters_poster_registration": {
+      "label": "posters poster registration",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "posters_submission": {
+      "label": "posters submission",
+      "value": {
+        "raw": "`2026-06-26`",
+        "type": "date",
+        "value": "2026-06-26"
+      }
+    },
+    "student_research_competition_camera_ready": {
+      "label": "Student Research Competition camera-ready",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "student_research_competition_notification": {
+      "label": "Student Research Competition notification",
+      "value": {
+        "raw": "`2026-07-24`",
+        "type": "date",
+        "value": "2026-07-24"
+      }
+    },
+    "student_research_competition_submission": {
+      "label": "Student Research Competition submission",
+      "value": {
+        "raw": "`2026-06-26`",
+        "type": "date",
+        "value": "2026-06-26"
+      }
+    },
+    "tool_demonstrations_camera_ready": {
+      "label": "tool demonstrations camera-ready",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "tool_demonstrations_notification": {
+      "label": "tool demonstrations notification",
+      "value": {
+        "raw": "`2026-07-24`",
+        "type": "date",
+        "value": "2026-07-24"
+      }
+    },
+    "tool_demonstrations_poster_registration": {
+      "label": "tool demonstrations poster registration",
+      "value": {
+        "raw": "`2026-08-07`",
+        "type": "date",
+        "value": "2026-08-07"
+      }
+    },
+    "tool_demonstrations_submission": {
+      "label": "tool demonstrations submission",
+      "value": {
+        "raw": "`2026-06-26`",
+        "type": "date",
+        "value": "2026-06-26"
+      }
+    },
+    "workshops_notification": {
+      "label": "workshops notification",
+      "value": {
+        "raw": "`2026-02-01`",
+        "type": "date",
+        "value": "2026-02-01"
+      }
+    },
+    "workshops_proposal": {
+      "label": "workshops proposal",
+      "value": {
+        "raw": "`2026-01-17`",
+        "type": "date",
+        "value": "2026-01-17"
+      }
+    }
+  },
+  "related": []
+}

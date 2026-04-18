@@ -1,0 +1,61 @@
+{
+  "id": "aaai-2026",
+  "title": "AAAI 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Singapore",
+  "source_url": "https://aaai.org/conference/aaai/aaai-26/",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2025-07-25`",
+        "type": "date",
+        "value": "2025-07-25"
+      }
+    },
+    "camera_ready": {
+      "label": "camera-ready",
+      "value": {
+        "raw": "`2025-11-16`",
+        "type": "date",
+        "value": "2025-11-16"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-20` to `2026-01-27`",
+        "type": "date_range",
+        "start": "2026-01-20",
+        "end": "2026-01-27"
+      }
+    },
+    "final_decision": {
+      "label": "final decision",
+      "value": {
+        "raw": "`2025-11-08`",
+        "type": "date",
+        "value": "2025-11-08"
+      }
+    },
+    "full_paper": {
+      "label": "full paper",
+      "value": {
+        "raw": "`2025-08-01`",
+        "type": "date",
+        "value": "2025-08-01"
+      }
+    },
+    "supplementary_code": {
+      "label": "supplementary/code",
+      "value": {
+        "raw": "`2025-08-04`",
+        "type": "date",
+        "value": "2025-08-04"
+      }
+    }
+  },
+  "related": []
+}

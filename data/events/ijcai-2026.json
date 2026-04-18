@@ -1,0 +1,117 @@
+{
+  "id": "ijcai-2026",
+  "title": "IJCAI 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": null,
+  "notes": [
+    "Opening reception and Industry Day are listed; student-volunteer call is not live."
+  ],
+  "long_notes": [
+    "Opening reception `2026-08-17`; Industry Day `2026-08-19` (tentative); no live 2026 student volunteer call is posted yet, but the local coordination page lists Student Volunteer Chairs"
+  ],
+  "dates": {
+    "abstract_submission": {
+      "label": "abstract submission",
+      "value": {
+        "raw": "`2026-01-12` AoE",
+        "type": "date",
+        "value": "2026-01-12"
+      }
+    },
+    "author_response": {
+      "label": "author response",
+      "value": {
+        "raw": "`2026-04-07` to `2026-04-10`",
+        "type": "date_range",
+        "start": "2026-04-07",
+        "end": "2026-04-10"
+      }
+    },
+    "camera_ready_copy": {
+      "label": "camera-ready copy",
+      "value": {
+        "raw": "`2026-05-15`",
+        "type": "date",
+        "value": "2026-05-15"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-08-15` to `2026-08-21`",
+        "type": "date_range",
+        "start": "2026-08-15",
+        "end": "2026-08-21"
+      }
+    },
+    "full_paper": {
+      "label": "full paper",
+      "value": {
+        "raw": "`2026-01-19` AoE",
+        "type": "date",
+        "value": "2026-01-19"
+      }
+    },
+    "main_conference": {
+      "label": "main conference",
+      "value": {
+        "raw": "`2026-08-18` to `2026-08-21`",
+        "type": "date_range",
+        "start": "2026-08-18",
+        "end": "2026-08-21"
+      }
+    },
+    "main_track_abstract": {
+      "label": "main track abstract",
+      "value": {
+        "raw": "`2026-01-12` AoE",
+        "type": "date",
+        "value": "2026-01-12"
+      }
+    },
+    "main_track_full_paper": {
+      "label": "main track full paper",
+      "value": {
+        "raw": "`2026-01-19` AoE",
+        "type": "date",
+        "value": "2026-01-19"
+      }
+    },
+    "paper_notification": {
+      "label": "paper notification",
+      "value": {
+        "raw": "`2026-04-29`",
+        "type": "date",
+        "value": "2026-04-29"
+      }
+    },
+    "phase_i_notification": {
+      "label": "Phase I notification",
+      "value": {
+        "raw": "`2026-03-04`",
+        "type": "date",
+        "value": "2026-03-04"
+      }
+    },
+    "special_tracks_survey_track_full_paper": {
+      "label": "special tracks / survey track full paper",
+      "value": {
+        "raw": "`2026-01-19` AoE",
+        "type": "date",
+        "value": "2026-01-19"
+      }
+    },
+    "workshops_and_tutorials": {
+      "label": "workshops and tutorials",
+      "value": {
+        "raw": "`2026-08-15` to `2026-08-17`",
+        "type": "date_range",
+        "start": "2026-08-15",
+        "end": "2026-08-17"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://2026.ijcai.org/"
+}

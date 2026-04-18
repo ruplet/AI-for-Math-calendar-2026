@@ -1,0 +1,23 @@
+{
+  "id": "icfp-2026-student-volunteers",
+  "title": "ICFP 2026 student volunteers",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://icfp26.sigplan.org/",
+  "notes": [
+    "the Artifact Evaluation Committee volunteer call is already tracked below",
+    "https://icfp26.sigplan.org/"
+  ],
+  "dates": {
+    "deadline": {
+      "label": "deadline",
+      "value": {
+        "raw": "the student-volunteer deadline is not posted yet, but a public 2026 call is expected",
+        "type": "text",
+        "value": "the student-volunteer deadline is not posted yet, but a public 2026 call is expected"
+      }
+    }
+  },
+  "related": []
+}

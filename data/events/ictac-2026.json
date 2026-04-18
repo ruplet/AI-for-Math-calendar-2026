@@ -1,0 +1,21 @@
+{
+  "id": "ictac-2026",
+  "title": "ICTAC 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Bariloche, Argentina",
+  "source_url": "https://ictac2026.github.io/",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-11-11` to `2026-11-13`",
+        "type": "date_range",
+        "start": "2026-11-11",
+        "end": "2026-11-13"
+      }
+    }
+  },
+  "related": []
+}

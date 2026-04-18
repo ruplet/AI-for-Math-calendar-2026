@@ -1,0 +1,61 @@
+{
+  "id": "etaps-2026",
+  "title": "ETAPS 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Turin, Italy",
+  "notes": [],
+  "dates": {
+    "esop_round_1": {
+      "label": "ESOP round 1",
+      "value": {
+        "raw": "`2025-06-03`",
+        "type": "date",
+        "value": "2025-06-03"
+      }
+    },
+    "esop_round_2": {
+      "label": "ESOP round 2",
+      "value": {
+        "raw": "`2025-10-16`",
+        "type": "date",
+        "value": "2025-10-16"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-04-11` to `2026-04-16`",
+        "type": "date_range",
+        "start": "2026-04-11",
+        "end": "2026-04-16"
+      }
+    },
+    "fase": {
+      "label": "FASE",
+      "value": {
+        "raw": "`2025-10-16`",
+        "type": "date",
+        "value": "2025-10-16"
+      }
+    },
+    "fossacs": {
+      "label": "FoSSaCS",
+      "value": {
+        "raw": "`2025-10-16`",
+        "type": "date",
+        "value": "2025-10-16"
+      }
+    },
+    "tacas": {
+      "label": "TACAS",
+      "value": {
+        "raw": "`2025-10-16`",
+        "type": "date",
+        "value": "2025-10-16"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://etaps.org/2026/"
+}

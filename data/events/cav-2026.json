@@ -1,0 +1,48 @@
+{
+  "id": "cav-2026",
+  "title": "CAV 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Lisbon, Portugal",
+  "notes": [
+    "Student volunteering is handled via the FLoC 2026 umbrella program; exact application deadline not posted yet"
+  ],
+  "dates": {
+    "author_response": {
+      "label": "author response",
+      "value": {
+        "raw": "`2026-03-30` to `2026-04-01`",
+        "type": "date_range",
+        "start": "2026-03-30",
+        "end": "2026-04-01"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-07-26` to `2026-07-29`",
+        "type": "date_range",
+        "start": "2026-07-26",
+        "end": "2026-07-29"
+      }
+    },
+    "full_paper": {
+      "label": "full paper",
+      "value": {
+        "raw": "`2026-01-28`",
+        "type": "date",
+        "value": "2026-01-28"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-04-17`",
+        "type": "date",
+        "value": "2026-04-17"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://conferences.i-cav.org/2026/"
+}

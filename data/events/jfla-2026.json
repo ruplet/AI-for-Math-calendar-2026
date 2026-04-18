@@ -1,0 +1,21 @@
+{
+  "id": "jfla-2026",
+  "title": "JFLA 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Oberbronn, France",
+  "source_url": "https://jfla.inria.fr/jfla2026.html",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-27` to `2026-01-30`",
+        "type": "date_range",
+        "start": "2026-01-27",
+        "end": "2026-01-30"
+      }
+    }
+  },
+  "related": []
+}

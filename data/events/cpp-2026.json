@@ -1,0 +1,50 @@
+{
+  "id": "cpp-2026",
+  "title": "CPP 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Rennes, France",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2025-09-05`",
+        "type": "date",
+        "value": "2025-09-05"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-12` to `2026-01-13`",
+        "type": "date_range",
+        "start": "2026-01-12",
+        "end": "2026-01-13"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2025-11-13`",
+        "type": "date",
+        "value": "2025-11-13"
+      }
+    },
+    "paper": {
+      "label": "paper",
+      "value": {
+        "raw": "`2025-09-12`",
+        "type": "date",
+        "value": "2025-09-12"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2026"
+    }
+  ],
+  "source_url": "https://popl26.sigplan.org/home/CPP-2026"
+}

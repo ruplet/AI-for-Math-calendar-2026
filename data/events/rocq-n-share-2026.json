@@ -1,0 +1,23 @@
+{
+  "id": "rocq-n-share-2026",
+  "title": "Rocq'n'Share 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "EPFL main campus, Lausanne, Switzerland",
+  "notes": [
+    "Rocq users and developers workshop; registration is free but required"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-06-29` to `2026-07-03`",
+        "type": "date_range",
+        "start": "2026-06-29",
+        "end": "2026-07-03"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://proofs.swiss/rocq-n-share/2026/"
+}

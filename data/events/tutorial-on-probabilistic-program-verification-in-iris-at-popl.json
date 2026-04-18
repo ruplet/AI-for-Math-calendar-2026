@@ -1,0 +1,25 @@
+{
+  "id": "tutorial-on-probabilistic-program-verification-in-iris-at-popl",
+  "title": "Tutorial on probabilistic program verification in Iris at POPL",
+  "kind": "program",
+  "year": null,
+  "location": "Rennes, France",
+  "source_url": "https://popl26.sigplan.org/details/POPL-2026-tutorials/8/Verifying-Probabilistic-Programs-Using-Separation-Logic",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-01-11`",
+        "type": "date",
+        "value": "2026-01-11"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2026"
+    }
+  ]
+}

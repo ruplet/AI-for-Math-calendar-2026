@@ -1,0 +1,76 @@
+{
+  "id": "lean-workshop-2026",
+  "title": "Lean Workshop 2026",
+  "kind": "workshop",
+  "year": 2026,
+  "location": "Lisbon, Portugal",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-04-22`",
+        "type": "date",
+        "value": "2026-04-22"
+      }
+    },
+    "abstract_2": {
+      "label": "abstract",
+      "value": {
+        "raw": "`2026-04-22` AoE",
+        "type": "date",
+        "value": "2026-04-22"
+      }
+    },
+    "early_bird_registration": {
+      "label": "early-bird registration",
+      "value": {
+        "raw": "`2026-06-01`",
+        "type": "date",
+        "value": "2026-06-01"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-07-25`",
+        "type": "date",
+        "value": "2026-07-25"
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-05-08`",
+        "type": "date",
+        "value": "2026-05-08"
+      }
+    },
+    "registration": {
+      "label": "registration",
+      "value": {
+        "raw": "`2026-07-13`",
+        "type": "date",
+        "value": "2026-07-13"
+      }
+    },
+    "workshop_early_bird_registration": {
+      "label": "workshop early-bird registration",
+      "value": {
+        "raw": "`2026-06-01`",
+        "type": "date",
+        "value": "2026-06-01"
+      }
+    },
+    "workshop_registration": {
+      "label": "workshop registration",
+      "value": {
+        "raw": "`2026-07-13`",
+        "type": "date",
+        "value": "2026-07-13"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://leanprover-community.github.io/floc-2026-lean-workshop/"
+}

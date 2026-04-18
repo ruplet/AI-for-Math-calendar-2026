@@ -1,0 +1,23 @@
+{
+  "id": "ijcai-ecai-2026-student-volunteers",
+  "title": "IJCAI-ECAI 2026 student volunteers",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://2026.ijcai.org/local-coordination/",
+  "notes": [
+    "no live 2026 volunteer call yet, but Student Volunteer Chairs are already listed",
+    "https://2026.ijcai.org/local-coordination/"
+  ],
+  "dates": {
+    "deadline": {
+      "label": "deadline",
+      "value": {
+        "raw": "historical volunteer deadline `2025-06-01` AoE",
+        "type": "text",
+        "value": "historical volunteer deadline 2025-06-01 AoE"
+      }
+    }
+  },
+  "related": []
+}

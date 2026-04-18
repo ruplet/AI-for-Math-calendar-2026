@@ -1,0 +1,63 @@
+{
+  "id": "aipv-2026",
+  "title": "AIPV 2026",
+  "kind": "event",
+  "year": 2026,
+  "location": "Tokyo, Japan",
+  "notes": [],
+  "dates": {
+    "camera_ready": {
+      "label": "camera-ready",
+      "value": {
+        "raw": "`2026-04-30`",
+        "type": "date",
+        "value": "2026-04-30"
+      }
+    },
+    "early_registration": {
+      "label": "early registration",
+      "value": {
+        "raw": "`2026-04-18`",
+        "type": "date",
+        "value": "2026-04-18"
+      }
+    },
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-05-18` or `2026-05-19`",
+        "type": "date_choice",
+        "values": [
+          "2026-05-18",
+          "2026-05-19"
+        ]
+      }
+    },
+    "notification": {
+      "label": "notification",
+      "value": {
+        "raw": "`2026-04-15`",
+        "type": "date",
+        "value": "2026-04-15"
+      }
+    },
+    "submission": {
+      "label": "submission",
+      "value": {
+        "raw": "`2026-03-15`",
+        "type": "date",
+        "value": "2026-03-15"
+      }
+    },
+    "submission_2": {
+      "label": "submission",
+      "value": {
+        "raw": "`2026-03-15` AoE",
+        "type": "date",
+        "value": "2026-03-15"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://aipv2026.github.io/"
+}

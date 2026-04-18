@@ -1,0 +1,22 @@
+{
+  "id": "aitpm-ai-and-theorem-provers-in-mathematics-workshop",
+  "title": "AITPM (AI and Theorem Provers in Mathematics) Workshop",
+  "kind": "workshop",
+  "year": null,
+  "location": "Online",
+  "notes": [
+    "Registration is free; full programme available on the workshop website"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-04-08` to `2026-04-10`",
+        "type": "date_range",
+        "start": "2026-04-08",
+        "end": "2026-04-10"
+      }
+    }
+  },
+  "related": []
+}

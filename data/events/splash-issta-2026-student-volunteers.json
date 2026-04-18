@@ -1,0 +1,22 @@
+{
+  "id": "splash-issta-2026-student-volunteers",
+  "title": "SPLASH/ISSTA 2026 student volunteers",
+  "kind": "support_program",
+  "year": 2026,
+  "location": null,
+  "source_url": "https://2026.splashcon.org/track/splash-issta-2026-student-volunteers",
+  "notes": [
+    "https://2026.splashcon.org/track/splash-issta-2026-student-volunteers"
+  ],
+  "dates": {
+    "deadline": {
+      "label": "deadline",
+      "value": {
+        "raw": "volunteer program confirmed, but the 2026 deadline is not posted yet",
+        "type": "text",
+        "value": "volunteer program confirmed, but the 2026 deadline is not posted yet"
+      }
+    }
+  },
+  "related": []
+}

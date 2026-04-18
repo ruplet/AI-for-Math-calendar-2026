@@ -1,0 +1,21 @@
+{
+  "id": "the-sixth-iris-workshop",
+  "title": "The Sixth Iris Workshop",
+  "kind": "workshop",
+  "year": null,
+  "location": "Klosterneuburg/Vienna, Austria",
+  "source_url": "https://iris-project.org/workshop-2026/",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-06-08` to `2026-06-12`",
+        "type": "date_range",
+        "start": "2026-06-08",
+        "end": "2026-06-12"
+      }
+    }
+  },
+  "related": []
+}

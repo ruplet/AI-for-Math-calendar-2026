@@ -1,0 +1,23 @@
+{
+  "id": "guaranteed-safe-ai-seminars-benchmarks-for-ai-assisted-formal-verification",
+  "title": "Guaranteed Safe AI Seminars: Benchmarks for AI-assisted Formal Verification",
+  "kind": "seminar",
+  "year": null,
+  "location": "Online",
+  "notes": [
+    "Time: `13:00` EST",
+    "Talk by Theodore Ehrenborg (Beneficial AI Foundation and PIBBSS)"
+  ],
+  "dates": {
+    "event": {
+      "label": "event",
+      "value": {
+        "raw": "`2026-03-12`",
+        "type": "date",
+        "value": "2026-03-12"
+      }
+    }
+  },
+  "related": [],
+  "source_url": "https://luma.com/nk8ce7so"
+}
