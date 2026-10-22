@@ -4,7 +4,10 @@
   "kind": "event",
   "year": 2027,
   "location": null,
-  "notes": [],
+  "notes": [
+    "Student volunteers may be undergraduate, master’s, or PhD students; the program covers registration and meals, but not travel or lodging. https://popl27.sigplan.org/track/POPL-2027-student-volunteers",
+    "Artifact registration (October 7) and submission (October 12) deadlines: https://popl27.sigplan.org/track/POPL-2027-artifact-evaluation"
+  ],
   "dates": {
     "author_response": {
       "label": "author response",
@@ -37,6 +40,71 @@
         "raw": "`2026-10-26`",
         "type": "date",
         "value": "2026-10-26"
+      }
+    },
+    "artifact_registration": {
+      "label": "Artifact evaluation registration",
+      "value": {
+        "type": "date",
+        "value": "2026-10-07",
+        "raw": "2026-10-07"
+      }
+    },
+    "artifact_submission": {
+      "label": "Artifact evaluation submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-12",
+        "raw": "2026-10-12"
+      }
+    },
+    "student_research_competition_submission": {
+      "label": "Student Research Competition submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-12",
+        "raw": "2026-10-12"
+      }
+    },
+    "student_volunteer_application": {
+      "label": "Student volunteer application",
+      "value": {
+        "type": "date",
+        "value": "2026-11-11",
+        "raw": "2026-11-11"
+      }
+    },
+    "student_research_competition_conditional": {
+      "label": "Student Research Competition conditional acceptance decisions",
+      "value": {
+        "type": "date",
+        "value": "2026-11-25",
+        "raw": "2026-11-25"
+      }
+    },
+    "student_research_competition_revision": {
+      "label": "Student Research Competition revisions",
+      "value": {
+        "type": "date",
+        "value": "2026-12-03",
+        "raw": "2026-12-03"
+      }
+    },
+    "student_research_competition_decision": {
+      "label": "Student Research Competition final acceptance decisions",
+      "value": {
+        "type": "date",
+        "value": "2026-12-07",
+        "raw": "2026-12-07"
+      }
+    },
+    "event": {
+      "label": "POPL and colocated events",
+      "value": {
+        "type": "date_range",
+        "start": "2027-01-10",
+        "end": "2027-01-16",
+        "raw": "2027-01-10 to 2027-01-16"
       }
     }
   },

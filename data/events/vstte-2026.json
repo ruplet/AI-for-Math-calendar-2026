@@ -4,14 +4,16 @@
   "kind": "event",
   "year": 2026,
   "location": "Graz, Austria",
-  "notes": [],
+  "notes": [
+    "Submission deadlines are AoE. The organizer marks the notification, optional pre-conference version, and post-proceedings camera-ready dates as tentative."
+  ],
   "dates": {
     "abstract": {
       "label": "abstract",
       "value": {
-        "raw": "`2026-07-10`",
+        "raw": "July 17, 2026 AoE",
         "type": "date",
-        "value": "2026-07-10"
+        "value": "2026-07-17"
       }
     },
     "event": {
@@ -41,9 +43,9 @@
     "paper": {
       "label": "paper",
       "value": {
-        "raw": "`2026-07-17`",
+        "raw": "July 24, 2026 AoE (firm; no further extensions)",
         "type": "date",
-        "value": "2026-07-17"
+        "value": "2026-07-24"
       }
     },
     "post_proceedings_camera_ready": {
@@ -55,6 +57,11 @@
       }
     }
   },
-  "related": [],
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "fmcad-2026"
+    }
+  ],
   "source_url": "https://fmcad.org/FMCAD26/vstte/"
 }

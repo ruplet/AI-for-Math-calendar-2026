@@ -11,10 +11,10 @@
     "author_response": {
       "label": "author response",
       "value": {
-        "raw": "`2026-03-30` to `2026-04-01`",
+        "raw": "`2026-03-30` to `2026-04-02`",
         "type": "date_range",
         "start": "2026-03-30",
-        "end": "2026-04-01"
+        "end": "2026-04-02"
       }
     },
     "event": {
