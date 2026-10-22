@@ -1,0 +1,22 @@
+{
+  "id": "neurips-2027",
+  "title": "NeurIPS 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Europe",
+  "source_url": "https://neurips.cc/Conferences/FutureMeetings",
+  "notes": [
+    "The official future-meetings page lists Europe but has not announced the city, conference dates, or submission dates. January 1 is a reminder to re-check the official site, not a deadline."
+  ],
+  "dates": {
+    "submission_dates_check": {
+      "label": "Reminder: re-check NeurIPS 2027 dates and submission deadlines (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    }
+  },
+  "related": []
+}

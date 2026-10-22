@@ -1,0 +1,27 @@
+{
+  "id": "sas-2027",
+  "title": "SAS 2027 — Static Analysis Symposium",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Prague, Czechia",
+  "source_url": "https://2027.splashcon.org/home/sas-2027",
+  "notes": [
+    "The 34th Static Analysis Symposium is co-located with SPLASH 2027. SAS-specific dates and the call for papers are not yet announced. December 1 is a reminder to re-check the official SAS site, not a submission deadline."
+  ],
+  "dates": {
+    "sas_dates_check": {
+      "label": "Reminder: check for SAS dates and call for papers (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2026-12-01",
+        "raw": "December 1, 2026"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "splash-2027"
+    }
+  ]
+}

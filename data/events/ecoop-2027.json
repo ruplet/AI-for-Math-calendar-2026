@@ -1,0 +1,73 @@
+{
+  "id": "ecoop-2027",
+  "title": "ECOOP 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Turin, Italy",
+  "source_url": "https://2027.ecoop.org/",
+  "notes": [
+    "The official 2027 site currently lists only technical papers and workshops; student research competition, student volunteer, and travel support dates are not posted."
+  ],
+  "dates": {
+    "event": {
+      "label": "ECOOP 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-28",
+        "end": "2027-07-02",
+        "raw": "June 28 to July 2, 2027"
+      }
+    },
+    "paper_round_1": {
+      "label": "Round 1 paper",
+      "value": {
+        "type": "date",
+        "value": "2026-11-19",
+        "raw": "2026-11-19"
+      }
+    },
+    "author_response_round_1": {
+      "label": "Round 1 author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-01-11",
+        "end": "2027-01-15",
+        "raw": "January 11 to 15, 2027"
+      }
+    },
+    "notification_round_1": {
+      "label": "Round 1 notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-28",
+        "raw": "2027-01-28"
+      }
+    },
+    "paper_round_2": {
+      "label": "Round 2 paper",
+      "value": {
+        "type": "date",
+        "value": "2027-02-11",
+        "raw": "2027-02-11"
+      }
+    },
+    "author_response_round_2": {
+      "label": "Round 2 author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-22",
+        "end": "2027-03-26",
+        "raw": "March 22 to 26, 2027"
+      }
+    },
+    "notification_round_2": {
+      "label": "Round 2 notification",
+      "value": {
+        "type": "date",
+        "value": "2027-04-08",
+        "raw": "2027-04-08"
+      }
+    }
+  },
+  "related": []
+}

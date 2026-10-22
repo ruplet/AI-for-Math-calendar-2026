@@ -1,0 +1,88 @@
+{
+  "id": "iclr-2027",
+  "title": "ICLR 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "California, USA",
+  "source_url": "https://iclr.cc/Conferences/2027/Dates",
+  "notes": [
+    "The Blog Posts Track accepts up to two submissions per person; accepted posts may be presented as posters during ICLR's main poster session. Source: https://iclr.cc/Conferences/2027/CallForBlogPosts"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-09-18",
+        "raw": "2026-09-18"
+      }
+    },
+    "paper": {
+      "label": "Paper",
+      "value": {
+        "type": "date",
+        "value": "2026-09-25",
+        "raw": "2026-09-25"
+      }
+    },
+    "reviews": {
+      "label": "Reviews released",
+      "value": {
+        "type": "date",
+        "value": "2026-11-05",
+        "raw": "2026-11-05"
+      }
+    },
+    "author_discussion": {
+      "label": "Author-reviewer discussion",
+      "value": {
+        "type": "date_range",
+        "start": "2026-11-05",
+        "end": "2026-11-18",
+        "raw": "2026-11-05 to 2026-11-18"
+      }
+    },
+    "final_decisions": {
+      "label": "Final decisions",
+      "value": {
+        "type": "date",
+        "value": "2026-12-16",
+        "raw": "2026-12-16"
+      }
+    },
+    "blogposts_submission": {
+      "label": "Blog Posts Track submission",
+      "value": {
+        "type": "date",
+        "value": "2026-12-01",
+        "raw": "December 1, 2026"
+      }
+    },
+    "blogposts_notification": {
+      "label": "Blog Posts Track acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2027-03-01",
+        "raw": "March 1, 2027"
+      }
+    },
+    "blogposts_camera_ready": {
+      "label": "Blog Posts Track camera-ready merge",
+      "value": {
+        "type": "date",
+        "value": "2027-03-15",
+        "raw": "March 15, 2027"
+      }
+    },
+    "event": {
+      "label": "Main conference and workshops",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-26",
+        "end": "2027-04-30",
+        "raw": "2027-04-26 to 2027-04-30"
+      }
+    }
+  },
+  "related": []
+}

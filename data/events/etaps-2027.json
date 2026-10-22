@@ -1,0 +1,32 @@
+{
+  "id": "etaps-2027",
+  "title": "ETAPS 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Copenhagen, Denmark",
+  "source_url": "https://etaps.org/2027/cfp/",
+  "notes": [
+    "ETAPS contains four annual conferences: ESOP, FoSSaCS, iFS, and TACAS. See their individual records for paper and artifact deadlines."
+  ],
+  "dates": {
+    "event": {
+      "label": "ETAPS 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-10",
+        "end": "2027-04-15",
+        "raw": "2027-04-10 to 2027-04-15"
+      }
+    },
+    "satellite_events": {
+      "label": "Satellite events",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-10",
+        "end": "2027-04-11",
+        "raw": "2027-04-10 to 2027-04-11"
+      }
+    }
+  },
+  "related": []
+}

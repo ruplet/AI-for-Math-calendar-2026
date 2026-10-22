@@ -1,0 +1,117 @@
+{
+  "id": "oopsla-2027",
+  "title": "OOPSLA 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Prague, Czechia",
+  "source_url": "https://2027.splashcon.org/track/splashoopsla2027",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "paper_round_1": {
+      "label": "Round 1 paper",
+      "value": {
+        "type": "date",
+        "value": "2026-10-14",
+        "raw": "2026-10-14"
+      }
+    },
+    "paper_round_2": {
+      "label": "Round 2 paper",
+      "value": {
+        "type": "date",
+        "value": "2027-04-07",
+        "raw": "2027-04-07"
+      }
+    },
+    "author_response_round_1": {
+      "label": "Author response (round 1)",
+      "value": {
+        "type": "date_range",
+        "start": "2026-12-01",
+        "end": "2026-12-05",
+        "raw": "2026-12-01 to 2026-12-05"
+      }
+    },
+    "notification_round_1": {
+      "label": "Author notification (round 1)",
+      "value": {
+        "type": "date",
+        "value": "2026-12-18",
+        "raw": "2026-12-18"
+      }
+    },
+    "revision_round_1": {
+      "label": "Revision submission (round 1)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-22",
+        "raw": "2027-01-22"
+      }
+    },
+    "final_notification_round_1": {
+      "label": "Final author notification (round 1)",
+      "value": {
+        "type": "date",
+        "value": "2027-02-12",
+        "raw": "2027-02-12"
+      }
+    },
+    "camera_ready_round_1": {
+      "label": "Camera-ready (round 1)",
+      "value": {
+        "type": "date",
+        "value": "2027-03-05",
+        "raw": "2027-03-05"
+      }
+    },
+    "author_response_round_2": {
+      "label": "Author response (round 2)",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-15",
+        "end": "2027-06-19",
+        "raw": "2027-06-15 to 2027-06-19"
+      }
+    },
+    "notification_round_2": {
+      "label": "Author notification (round 2)",
+      "value": {
+        "type": "date",
+        "value": "2027-07-02",
+        "raw": "2027-07-02"
+      }
+    },
+    "revision_round_2": {
+      "label": "Revision submission (round 2)",
+      "value": {
+        "type": "date",
+        "value": "2027-07-30",
+        "raw": "2027-07-30"
+      }
+    },
+    "final_notification_round_2": {
+      "label": "Final author notification (round 2)",
+      "value": {
+        "type": "date",
+        "value": "2027-08-13",
+        "raw": "2027-08-13"
+      }
+    },
+    "camera_ready_round_2": {
+      "label": "Camera-ready (round 2)",
+      "value": {
+        "type": "date",
+        "value": "2027-08-27",
+        "raw": "2027-08-27"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "splash-2027"
+    }
+  ]
+}

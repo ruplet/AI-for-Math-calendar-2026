@@ -1,0 +1,27 @@
+{
+  "id": "vmcai-2027",
+  "title": "VMCAI 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://conf.researchr.org/home/VMCAI-2027",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper submission (extended)",
+      "value": {
+        "type": "date",
+        "value": "2026-09-30",
+        "raw": "2026-09-30"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "wollic-2027",
+  "title": "WoLLIC 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Helsinki, Finland",
+  "source_url": "https://www.helsinki.fi/en/conferences/wollic-2027",
+  "notes": [],
+  "dates": {
+    "abstract": {
+      "label": "Abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-03-08",
+        "raw": "2027-03-08"
+      }
+    },
+    "paper": {
+      "label": "Full paper",
+      "value": {
+        "type": "date",
+        "value": "2027-03-15",
+        "raw": "2027-03-15"
+      }
+    },
+    "event": {
+      "label": "WoLLIC 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-23",
+        "end": "2027-08-26",
+        "raw": "August 23 to 26, 2027"
+      }
+    }
+  },
+  "related": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "colt-2027",
+  "title": "COLT 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Tokyo, Japan",
+  "source_url": "https://learningtheory.org/colt2027/",
+  "notes": [
+    "The submission deadline and other review dates are listed as TBD on the official site. January 1 is a reminder to re-check the official site, not a submission deadline."
+  ],
+  "dates": {
+    "submission_dates_check": {
+      "label": "Reminder: re-check submission deadlines (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    },
+    "event": {
+      "label": "Conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-28",
+        "end": "2027-07-02",
+        "raw": "2027-06-28 to 2027-07-02"
+      }
+    }
+  },
+  "related": []
+}

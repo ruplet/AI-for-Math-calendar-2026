@@ -1,0 +1,114 @@
+{
+  "id": "abz-2027",
+  "title": "ABZ 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Braga, Portugal",
+  "source_url": "https://abz-conf.org/site/2027/importantdates/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "Workshop and tutorial proposal deadline and dates: https://abz-conf.org/site/2027/tutorialworkshops/",
+    "The Doctoral Symposium is for PhD students presenting ongoing work; acceptance to the main conference is not required. Its session date within the main conference has not been announced. https://abz-conf.org/site/2027/doctoralsymposium/"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Optional abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-02-08",
+        "raw": "2027-02-08"
+      }
+    },
+    "paper": {
+      "label": "Paper",
+      "value": {
+        "type": "date",
+        "value": "2027-02-15",
+        "raw": "2027-02-15"
+      }
+    },
+    "notification": {
+      "label": "Paper notification (all tracks, including Doctoral Symposium)",
+      "value": {
+        "type": "date",
+        "value": "2027-03-22",
+        "raw": "2027-03-22"
+      }
+    },
+    "final_version": {
+      "label": "Final version (all tracks, including Doctoral Symposium)",
+      "value": {
+        "type": "date",
+        "value": "2027-04-05",
+        "raw": "2027-04-05"
+      }
+    },
+    "doctoral_symposium_abstract": {
+      "label": "Doctoral Symposium optional abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-02-08",
+        "raw": "2027-02-08"
+      }
+    },
+    "doctoral_symposium_paper": {
+      "label": "Doctoral Symposium paper",
+      "value": {
+        "type": "date",
+        "value": "2027-02-15",
+        "raw": "2027-02-15"
+      }
+    },
+    "tutorial_proposal": {
+      "label": "Tutorial proposal",
+      "value": {
+        "type": "date",
+        "value": "2027-02-08",
+        "raw": "2027-02-08"
+      }
+    },
+    "workshop_proposal": {
+      "label": "Workshop proposal submission",
+      "value": {
+        "type": "date",
+        "value": "2026-12-07",
+        "raw": "2026-12-07"
+      }
+    },
+    "workshop_notification": {
+      "label": "Workshop notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "2027-01-11"
+      }
+    },
+    "tutorial_notification": {
+      "label": "Tutorial proposal notification",
+      "value": {
+        "type": "date",
+        "value": "2027-03-22",
+        "raw": "2027-03-22"
+      }
+    },
+    "workshops": {
+      "label": "Workshops and tutorials",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-14",
+        "end": "2027-06-15",
+        "raw": "June 14 to 15, 2027"
+      }
+    },
+    "event": {
+      "label": "Main conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-16",
+        "end": "2027-06-18",
+        "raw": "June 16 to 18, 2027"
+      }
+    }
+  },
+  "related": []
+}

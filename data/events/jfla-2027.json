@@ -1,0 +1,48 @@
+{
+  "id": "jfla-2027",
+  "title": "JFLA 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Dinard, France",
+  "source_url": "https://discourse.rocq-prover.org/t/jfla2027-dernier-appel-a-communications/3128",
+  "notes": [
+    "The organizer's final call specifies GMT+2 for deadlines. Organizer announcement used because https://jfla.eu/jfla2027.html was not accessible.",
+    "Spoken language: French only."
+  ],
+  "dates": {
+    "paper": {
+      "label": "Abstract and paper",
+      "value": {
+        "type": "date",
+        "value": "2026-10-16",
+        "raw": "2026-10-16"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2026-12-02",
+        "raw": "2026-12-02"
+      }
+    },
+    "final_version": {
+      "label": "Final paper",
+      "value": {
+        "type": "date",
+        "value": "2026-12-16",
+        "raw": "2026-12-16"
+      }
+    },
+    "event": {
+      "label": "JFLA 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-01-26",
+        "end": "2027-01-29",
+        "raw": "January 26 to 29, 2027"
+      }
+    }
+  },
+  "related": []
+}

@@ -1,0 +1,43 @@
+{
+  "id": "waw-2027",
+  "title": "WAW 2027 — WebAssembly Workshop",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/waw-2027",
+  "notes": [
+    "Submissions may be abstracts or extended abstracts on WebAssembly-related topics; deadlines are AoE (UTC-12)."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Presentation submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-03",
+        "raw": "November 3, 2026 AoE"
+      }
+    },
+    "notification": {
+      "label": "Acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-09",
+        "raw": "November 9, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-16",
+        "raw": "January 16, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

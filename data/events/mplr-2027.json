@@ -1,0 +1,27 @@
+{
+  "id": "mplr-2027",
+  "title": "MPLR 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Prague, Czechia",
+  "source_url": "https://2027.splashcon.org/home/mplr-2027",
+  "notes": [
+    "The organizer marks the June 11, 2027 23:59 AoE paper submission deadline as TBC."
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper submission (TBC)",
+      "value": {
+        "type": "date",
+        "value": "2027-06-11",
+        "raw": "Fri 11 Jun 2027 23:59 AoE — Submission (TBC)"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "splash-2027"
+    }
+  ]
+}

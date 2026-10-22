@@ -1,0 +1,39 @@
+{
+  "id": "building-mathematical-library-of-the-future-2027",
+  "title": "Building the Mathematical Library of the Future 2027",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Berkeley, California, USA",
+  "source_url": "https://www.slmath.org/axiom/412",
+  "notes": [
+    "A four-week workshop listed on the Lean community events calendar. The priority application deadline was March 31, 2026, and the final deadline was extended to April 30, 2026. Application listing: https://www.mathprograms.org/db/programs/1902"
+  ],
+  "dates": {
+    "priority_application": {
+      "label": "Priority application deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-03-31",
+        "raw": "March 31, 2026"
+      }
+    },
+    "application_deadline": {
+      "label": "Final application deadline (extended)",
+      "value": {
+        "type": "date",
+        "value": "2026-04-30",
+        "raw": "April 30, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-15",
+        "end": "2027-04-09",
+        "raw": "2027-03-15 to 2027-04-09"
+      }
+    }
+  },
+  "related": []
+}

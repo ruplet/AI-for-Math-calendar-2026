@@ -108,6 +108,63 @@
       }
     }
   },
-  "related": [],
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "cpp-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "fpbt-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "frida-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "lafi-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "page-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "pepm-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "planqc-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "plmw-popl-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "prisc-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "rocqpl-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "tpsa-2027"
+    },
+    {
+      "type": "colocated_with",
+      "event_id": "vmcai-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "wave-2027"
+    },
+    {
+      "type": "includes_program",
+      "event_id": "waw-2027"
+    }
+  ],
   "source_url": "https://popl27.sigplan.org/"
 }

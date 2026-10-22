@@ -1,0 +1,55 @@
+{
+  "id": "fscd-2027",
+  "title": "FSCD 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Nijmegen, Netherlands",
+  "source_url": "https://fscd-cade.science.ru.nl/",
+  "notes": [
+    "Co-located with CADE-31. FSCD paper submission dates are not posted on the joint site.",
+    "The FSCD 2027 CFP lists a Best Paper Award by Junior Researchers. Eligibility: at least one author must be a student or have received their PhD less than three years before the meeting; coauthors must declare that junior researcher(s) made at least 50% of the contribution. Source: https://easychair.org/cfp/FSCD2027",
+    "Joint FSCD/CADE workshop and tutorial proposal call: https://fscd-cade.science.ru.nl/calls/workshops-and-tutorials"
+  ],
+  "dates": {
+    "workshop_proposal": {
+      "label": "Joint FSCD/CADE workshop and tutorial proposal submission",
+      "value": {
+        "type": "date",
+        "value": "2026-12-04",
+        "raw": "2026-12-04"
+      }
+    },
+    "workshop_notification": {
+      "label": "Workshop notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-31",
+        "raw": "2027-01-31"
+      }
+    },
+    "workshops": {
+      "label": "FSCD workshops",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-21",
+        "end": "2027-08-22",
+        "raw": "August 21 to 22, 2027"
+      }
+    },
+    "event": {
+      "label": "FSCD-12",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-23",
+        "end": "2027-08-26",
+        "raw": "August 23 to 26, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "cade-2027"
+    }
+  ]
+}

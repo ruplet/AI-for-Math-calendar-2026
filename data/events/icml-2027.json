@@ -1,0 +1,22 @@
+{
+  "id": "icml-2027",
+  "title": "ICML 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "South America (city and dates TBA)",
+  "source_url": "https://icml.cc/Conferences/FutureMeetings",
+  "notes": [
+    "The official future-meetings page confirms a 2027 edition in South America; city, event dates, and submission dates have not been announced. January 1 is a reminder to re-check the official site, not a submission deadline."
+  ],
+  "dates": {
+    "submission_dates_check": {
+      "label": "Reminder: re-check submission dates (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    }
+  },
+  "related": []
+}

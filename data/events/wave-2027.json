@@ -1,0 +1,43 @@
+{
+  "id": "wave-2027",
+  "title": "WAVE 2027 — Workshop on Auto-active Verification",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/wave-2027",
+  "notes": [
+    "The workshop has no formal proceedings. It accepts anonymous 2–6 page extended abstracts, and submissions may be work published elsewhere."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Extended abstract submission deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-10-28",
+        "raw": "October 28, 2026"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-11",
+        "raw": "November 11, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-10",
+        "raw": "January 10, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

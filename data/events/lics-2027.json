@@ -1,0 +1,40 @@
+{
+  "id": "lics-2027",
+  "title": "LICS 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Montreal, Canada",
+  "source_url": "https://lics.siglog.org/lics27/",
+  "notes": [
+    "Submission dates have not yet been announced. December 1 is a reminder to re-check the official site, not a submission deadline."
+  ],
+  "dates": {
+    "submission_dates_check": {
+      "label": "Reminder: re-check submission dates (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2026-12-01",
+        "raw": "December 1, 2026"
+      }
+    },
+    "workshops": {
+      "label": "Workshops",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-19",
+        "end": "2027-06-20",
+        "raw": "2027-06-19 to 2027-06-20"
+      }
+    },
+    "event": {
+      "label": "Conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-21",
+        "end": "2027-06-24",
+        "raw": "2027-06-21 to 2027-06-24"
+      }
+    }
+  },
+  "related": []
+}

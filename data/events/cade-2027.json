@@ -1,0 +1,101 @@
+{
+  "id": "cade-2027",
+  "title": "CADE-31 (2027)",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Nijmegen, Netherlands",
+  "source_url": "https://fscd-cade.science.ru.nl/calls/papers-cade",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "Joint FSCD/CADE workshop and tutorial proposal call: https://fscd-cade.science.ru.nl/calls/workshops-and-tutorials"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-02-15",
+        "raw": "2027-02-15"
+      }
+    },
+    "paper": {
+      "label": "Paper",
+      "value": {
+        "type": "date",
+        "value": "2027-02-22",
+        "raw": "2027-02-22"
+      }
+    },
+    "response": {
+      "label": "Author response / rebuttal",
+      "value": {
+        "type": "date",
+        "value": "2027-04-30",
+        "raw": "2027-04-30"
+      }
+    },
+    "notification": {
+      "label": "Paper notification",
+      "value": {
+        "type": "date",
+        "value": "2027-05-17",
+        "raw": "2027-05-17"
+      }
+    },
+    "final_version": {
+      "label": "Final version",
+      "value": {
+        "type": "date",
+        "value": "2027-05-31",
+        "raw": "2027-05-31"
+      }
+    },
+    "workshop_proposal": {
+      "label": "Joint FSCD/CADE workshop and tutorial proposal submission",
+      "value": {
+        "type": "date",
+        "value": "2026-12-04",
+        "raw": "December 4, 2026"
+      }
+    },
+    "workshop_notification": {
+      "label": "Joint FSCD/CADE workshop notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-31",
+        "raw": "January 31, 2027"
+      }
+    },
+    "workshop_day_1": {
+      "label": "CADE workshop day",
+      "value": {
+        "type": "date",
+        "value": "2027-08-21",
+        "raw": "August 21, 2027"
+      }
+    },
+    "workshop_day_2": {
+      "label": "CADE workshop day",
+      "value": {
+        "type": "date",
+        "value": "2027-08-26",
+        "raw": "August 26, 2027"
+      }
+    },
+    "event": {
+      "label": "CADE-31",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-22",
+        "end": "2027-08-25",
+        "raw": "August 22 to 25, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "fscd-2027"
+    }
+  ]
+}

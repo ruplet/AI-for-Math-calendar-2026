@@ -1,0 +1,31 @@
+{
+  "id": "types-2027",
+  "title": "TYPES 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Udine, Italy",
+  "source_url": "https://types2027.uniud.it/call-for-contributions/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Extended abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-02-19",
+        "raw": "2027-02-19"
+      }
+    },
+    "event": {
+      "label": "TYPES 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-07",
+        "end": "2027-06-11",
+        "raw": "June 7 to 11, 2027"
+      }
+    }
+  },
+  "related": []
+}

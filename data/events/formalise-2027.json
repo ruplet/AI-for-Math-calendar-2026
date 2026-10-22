@@ -1,0 +1,47 @@
+{
+  "id": "formalise-2027",
+  "title": "FormaliSE 2027",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Dublin, Ireland",
+  "source_url": "https://2027.formalise.org/dates",
+  "notes": [
+    "Deadlines are Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Research/artifact track abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-10-30",
+        "raw": "2026-10-30"
+      }
+    },
+    "paper": {
+      "label": "Research/artifact track paper",
+      "value": {
+        "type": "date",
+        "value": "2026-11-06",
+        "raw": "2026-11-06"
+      }
+    },
+    "artifact_submission": {
+      "label": "Artifact submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-10",
+        "raw": "2026-11-10"
+      }
+    },
+    "event": {
+      "label": "FormaliSE workshop",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-26",
+        "end": "2027-04-27",
+        "raw": "April 26 to 27, 2027"
+      }
+    }
+  },
+  "related": []
+}

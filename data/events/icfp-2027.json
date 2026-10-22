@@ -1,0 +1,80 @@
+{
+  "id": "icfp-2027",
+  "title": "ICFP 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Nijmegen, Netherlands",
+  "source_url": "https://icfp27.sigplan.org/",
+  "notes": [
+    "The ICFP Artifacts track page currently says no information is available yet; artifact dates and student opportunity dates are not posted."
+  ],
+  "dates": {
+    "event": {
+      "label": "ICFP 2027 and colocated events",
+      "value": {
+        "type": "date_range",
+        "start": "2027-09-26",
+        "end": "2027-10-01",
+        "raw": "September 26 to October 1, 2027"
+      }
+    },
+    "paper": {
+      "label": "Paper submission",
+      "value": {
+        "type": "date",
+        "value": "2027-02-25",
+        "raw": "2027-02-25"
+      }
+    },
+    "reviews": {
+      "label": "Reviews released",
+      "value": {
+        "type": "date",
+        "value": "2027-04-19",
+        "raw": "2027-04-19"
+      }
+    },
+    "author_response": {
+      "label": "Author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-19",
+        "end": "2027-04-22",
+        "raw": "April 19 to 22, 2027"
+      }
+    },
+    "conditional_acceptance": {
+      "label": "Conditional acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2027-05-07",
+        "raw": "2027-05-07"
+      }
+    },
+    "revised_paper": {
+      "label": "Revised paper",
+      "value": {
+        "type": "date",
+        "value": "2027-06-01",
+        "raw": "2027-06-01"
+      }
+    },
+    "final_notification": {
+      "label": "Final notification",
+      "value": {
+        "type": "date",
+        "value": "2027-06-11",
+        "raw": "2027-06-11"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera ready",
+      "value": {
+        "type": "date",
+        "value": "2027-07-01",
+        "raw": "2027-07-01"
+      }
+    }
+  },
+  "related": []
+}

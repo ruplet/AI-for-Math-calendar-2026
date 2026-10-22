@@ -1,0 +1,31 @@
+{
+  "id": "computer-assisted-theorem-proving-dagstuhl-2027",
+  "title": "The Next 20 Years of Computer-Assisted Theorem Proving — Dagstuhl 27081",
+  "kind": "seminar",
+  "year": 2027,
+  "location": "Schloss Dagstuhl, Germany",
+  "source_url": "https://www.dagstuhl.de/27081",
+  "notes": [
+    "Covers proof assistant design and AI-assisted proof engineering. The listed application deadline is specifically for Dagstuhl's Junior Researchers program, not a general paper submission."
+  ],
+  "dates": {
+    "junior_application": {
+      "label": "Junior Researchers application",
+      "value": {
+        "type": "date",
+        "value": "2026-06-26",
+        "raw": "2026-06-26"
+      }
+    },
+    "event": {
+      "label": "Dagstuhl seminar",
+      "value": {
+        "type": "date_range",
+        "start": "2027-02-21",
+        "end": "2027-02-26",
+        "raw": "2027-02-21 to 2027-02-26"
+      }
+    }
+  },
+  "related": []
+}

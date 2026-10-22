@@ -1,0 +1,113 @@
+{
+  "id": "naacl-2027",
+  "title": "NAACL 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "San Francisco, California, USA",
+  "source_url": "https://2027.naacl.org/calls/main_conference_papers/",
+  "notes": [
+    "Conference commitment requires a reviewed ARR paper.",
+    "The Student Research Workshop welcomes student-led work and PhD thesis proposals; student-status proof is required at submission, and pre-submission mentorship is optional. Source: https://2027.naacl.org/calls/srw/",
+    "The volunteer call currently says details are coming soon: https://2027.naacl.org/calls/volunteers/"
+  ],
+  "dates": {
+    "arr_submission": {
+      "label": "Main conference ARR paper submission deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-10-12",
+        "raw": "2026-10-12"
+      }
+    },
+    "event": {
+      "label": "NAACL conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-01",
+        "end": "2027-06-05",
+        "raw": "2027-06-01 to 2027-06-05"
+      }
+    },
+    "reviewer_registration": {
+      "label": "Reviewer registration for all authors",
+      "value": {
+        "type": "date",
+        "value": "2026-10-12",
+        "raw": "2026-10-12"
+      }
+    },
+    "commitment": {
+      "label": "NAACL commitment",
+      "value": {
+        "type": "date",
+        "value": "2026-12-23",
+        "raw": "2026-12-23"
+      }
+    },
+    "camera_ready": {
+      "label": "Main papers and system demos camera-ready deadline",
+      "value": {
+        "type": "date",
+        "value": "2027-03-03",
+        "raw": "2027-03-03"
+      }
+    },
+    "workshop_proposal": {
+      "label": "Workshop proposal submission deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-09-04",
+        "raw": "2026-09-04"
+      }
+    },
+    "tutorial_proposal": {
+      "label": "Tutorial proposal submission deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-10-02",
+        "raw": "2026-10-02"
+      }
+    },
+    "system_demo_submission": {
+      "label": "System demonstration submission deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-12-04",
+        "raw": "2026-12-04"
+      }
+    },
+    "volunteer_call_check": {
+      "label": "Reminder: check NAACL volunteer call for application details (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2026-12-01",
+        "raw": "December 1, 2026"
+      }
+    },
+    "srw_mentorship_request": {
+      "label": "Student Research Workshop mentorship request deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-11-16",
+        "raw": "2026-11-16"
+      }
+    },
+    "srw_paper": {
+      "label": "Student Research Workshop paper submission and student-status proof deadline",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "2027-01-11"
+      }
+    },
+    "srw_camera_ready": {
+      "label": "Student Research Workshop camera-ready paper deadline",
+      "value": {
+        "type": "date",
+        "value": "2027-03-15",
+        "raw": "2027-03-15"
+      }
+    }
+  },
+  "related": []
+}

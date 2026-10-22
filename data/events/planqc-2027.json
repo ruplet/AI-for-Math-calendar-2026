@@ -1,0 +1,43 @@
+{
+  "id": "planqc-2027",
+  "title": "PLanQC 2027 — Programming Languages for Quantum Computing",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/planqc-2027",
+  "notes": [
+    "Submission deadlines are AoE (UTC-12)."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Talk proposal submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-30",
+        "raw": "October 30, 2026 AoE"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-27",
+        "raw": "November 27, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-12",
+        "raw": "January 12, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

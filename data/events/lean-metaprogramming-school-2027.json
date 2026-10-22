@@ -1,0 +1,32 @@
+{
+  "id": "lean-metaprogramming-school-2027",
+  "title": "Metaprogramming for the Formalizing Mathematician 2027",
+  "kind": "school",
+  "year": 2027,
+  "location": "Hausdorff Research Institute for Mathematics, Bonn, Germany",
+  "source_url": "https://math-events.uni-bonn.de/event/1555/",
+  "notes": [
+    "Lean experience is expected; prior metaprogramming experience is not required. Applications are open.",
+    "Global Mobility Fellowships support selected researchers and PhD students from countries of the Global South."
+  ],
+  "dates": {
+    "application": {
+      "label": "Participation application deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-12-18",
+        "raw": "December 18, 2026"
+      }
+    },
+    "event": {
+      "label": "School",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-19",
+        "end": "2027-04-23",
+        "raw": "April 19 to 23, 2027"
+      }
+    }
+  },
+  "related": []
+}

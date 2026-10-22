@@ -1,0 +1,34 @@
+{
+  "id": "splash-2027",
+  "title": "SPLASH 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Prague, Czechia",
+  "source_url": "https://2027.splashcon.org/dates",
+  "notes": [],
+  "dates": {
+    "event": {
+      "label": "SPLASH conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-10-10",
+        "end": "2027-10-15",
+        "raw": "2027-10-10 to 2027-10-15"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "covers_event",
+      "event_id": "oopsla-2027"
+    },
+    {
+      "type": "colocated_with",
+      "event_id": "mplr-2027"
+    },
+    {
+      "type": "colocated_with",
+      "event_id": "sas-2027"
+    }
+  ]
+}

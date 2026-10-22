@@ -1,0 +1,80 @@
+{
+  "id": "issta-2027",
+  "title": "ISSTA 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Singapore",
+  "source_url": "https://conf.researchr.org/dates/issta-2027",
+  "notes": [
+    "No 2027 student research competition, student volunteer, or student travel support application dates are posted on the official site yet."
+  ],
+  "dates": {
+    "event": {
+      "label": "ISSTA 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-09-07",
+        "end": "2027-09-10",
+        "raw": "September 7 to 10, 2027"
+      }
+    },
+    "abstract": {
+      "label": "Mandatory abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-01-08",
+        "raw": "2027-01-08"
+      }
+    },
+    "paper": {
+      "label": "Full paper",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "2027-01-11"
+      }
+    },
+    "response": {
+      "label": "Author response period",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-22",
+        "end": "2027-03-25",
+        "raw": "March 22 to 25, 2027"
+      }
+    },
+    "initial_notification": {
+      "label": "Initial notification",
+      "value": {
+        "type": "date",
+        "value": "2027-04-20",
+        "raw": "2027-04-20"
+      }
+    },
+    "major_revision": {
+      "label": "Major revision submission",
+      "value": {
+        "type": "date",
+        "value": "2027-05-20",
+        "raw": "2027-05-20"
+      }
+    },
+    "final_notification": {
+      "label": "Final notification",
+      "value": {
+        "type": "date",
+        "value": "2027-06-17",
+        "raw": "2027-06-17"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera ready",
+      "value": {
+        "type": "date",
+        "value": "2027-07-22",
+        "raw": "2027-07-22"
+      }
+    }
+  },
+  "related": []
+}

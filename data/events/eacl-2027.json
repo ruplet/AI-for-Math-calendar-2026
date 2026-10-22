@@ -1,0 +1,145 @@
+{
+  "id": "eacl-2027",
+  "title": "EACL 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Athens, Greece",
+  "source_url": "https://2027.eacl.org/calls/papers/",
+  "notes": [
+    "Strong student opportunity: the Student Research Workshop welcomes undergraduate, master’s, and PhD students, with pre-submission mentorship and student grants. https://2027.eacl.org/calls/srw/"
+  ],
+  "dates": {
+    "arr_submission": {
+      "label": "ARR submission",
+      "value": {
+        "type": "date",
+        "value": "2026-08-03",
+        "raw": "2026-08-03"
+      }
+    },
+    "reviewer_registration": {
+      "label": "Reviewer registration (all authors)",
+      "value": {
+        "type": "date",
+        "value": "2026-08-05",
+        "raw": "2026-08-05"
+      }
+    },
+    "author_response": {
+      "label": "Author response",
+      "value": {
+        "type": "date_range",
+        "start": "2026-09-14",
+        "end": "2026-09-19",
+        "raw": "2026-09-14 to 2026-09-19"
+      }
+    },
+    "reviewer_author_discussion": {
+      "label": "Reviewer engagement and author-reviewer discussion",
+      "value": {
+        "type": "date_range",
+        "start": "2026-09-20",
+        "end": "2026-09-24",
+        "raw": "2026-09-20 to 2026-09-24"
+      }
+    },
+    "meta_review": {
+      "label": "Meta-review released",
+      "value": {
+        "type": "date",
+        "value": "2026-10-08",
+        "raw": "2026-10-08"
+      }
+    },
+    "commitment": {
+      "label": "EACL commitment",
+      "value": {
+        "type": "date",
+        "value": "2026-10-11",
+        "raw": "2026-10-11"
+      }
+    },
+    "notification": {
+      "label": "Acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-12",
+        "raw": "2026-11-12"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera-ready papers",
+      "value": {
+        "type": "date",
+        "value": "2026-11-26",
+        "raw": "2026-11-26"
+      }
+    },
+    "srw_mentorship_request": {
+      "label": "Student Research Workshop pre-submission mentorship request",
+      "value": {
+        "type": "date",
+        "value": "2026-11-06",
+        "raw": "2026-11-06"
+      }
+    },
+    "srw_mentorship_feedback": {
+      "label": "Student Research Workshop mentorship feedback",
+      "value": {
+        "type": "date",
+        "value": "2026-12-05",
+        "raw": "2026-12-05"
+      }
+    },
+    "srw_paper": {
+      "label": "Student Research Workshop direct paper submission",
+      "value": {
+        "type": "date",
+        "value": "2026-12-15",
+        "raw": "2026-12-15"
+      }
+    },
+    "srw_notification": {
+      "label": "Student Research Workshop acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-05",
+        "raw": "2027-01-05"
+      }
+    },
+    "srw_camera_ready": {
+      "label": "Student Research Workshop camera-ready papers",
+      "value": {
+        "type": "date",
+        "value": "2027-01-19",
+        "raw": "2027-01-19"
+      }
+    },
+    "srw_grant_application": {
+      "label": "Student grant application",
+      "value": {
+        "type": "date",
+        "value": "2027-01-21",
+        "raw": "2027-01-21"
+      }
+    },
+    "srw_grant_notification": {
+      "label": "Student grant notification",
+      "value": {
+        "type": "date",
+        "value": "2027-01-28",
+        "raw": "2027-01-28"
+      }
+    },
+    "event": {
+      "label": "Main conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-09",
+        "end": "2027-03-14",
+        "raw": "2027-03-09 to 2027-03-14"
+      }
+    }
+  },
+  "related": []
+}

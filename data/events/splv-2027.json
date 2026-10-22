@@ -1,0 +1,22 @@
+{
+  "id": "splv-2027",
+  "title": "SPLV 2027",
+  "kind": "school",
+  "year": 2027,
+  "location": "Heriot-Watt University, Edinburgh, Scotland",
+  "source_url": "https://spli.scot/splv/",
+  "notes": [
+    "Scottish Programming Languages and Verification Summer School. The school is aimed at postgraduate students and its 2027 edition is announced for Heriot-Watt; dates and student support/application information are not posted yet. January 1 is a reminder to re-check the official site, not a deadline."
+  ],
+  "dates": {
+    "dates_check": {
+      "label": "Reminder: re-check SPLV dates and student support information (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    }
+  },
+  "related": []
+}

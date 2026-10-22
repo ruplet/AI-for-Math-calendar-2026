@@ -1,0 +1,31 @@
+{
+  "id": "cicm-2027",
+  "title": "CICM 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Erlangen, Germany",
+  "source_url": "https://cicm-conference.org/2027/cicm.php",
+  "notes": [
+    "20th Conference on Intelligent Computer Mathematics. The event dates and location are announced; a call for papers and submission dates are not yet published. January 1 is a reminder to re-check the official site, not a submission deadline."
+  ],
+  "dates": {
+    "submission_dates_check": {
+      "label": "Reminder: re-check submission deadlines (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    },
+    "event": {
+      "label": "Conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-07-19",
+        "end": "2027-07-23",
+        "raw": "2027-07-19 to 2027-07-23"
+      }
+    }
+  },
+  "related": []
+}

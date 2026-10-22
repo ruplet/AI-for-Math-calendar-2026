@@ -1,0 +1,148 @@
+{
+  "id": "cav-2027",
+  "title": "CAV 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Amsterdam, Netherlands",
+  "source_url": "https://conferences.i-cav.org/2027/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "All deadlines are AoE. Artifact evaluation has separate tool-paper and regular-paper rounds; the published smoke-test revision periods are listed above.",
+    "The program includes a Verification Mentoring Workshop for students on July 20. No participant application or 2027 student travel-support deadline has been posted. https://conferences.i-cav.org/2027/cfw/"
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper submission",
+      "value": {
+        "type": "date",
+        "value": "2027-01-20",
+        "raw": "2027-01-20"
+      }
+    },
+    "event": {
+      "label": "CAV 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-07-19",
+        "end": "2027-07-23",
+        "raw": "July 19 to 23, 2027"
+      }
+    },
+    "verification_mentoring_workshop": {
+      "label": "Verification Mentoring Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-07-20",
+        "raw": "July 20, 2027"
+      }
+    },
+    "response": {
+      "label": "Author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-04-05",
+        "end": "2027-04-08",
+        "raw": "2027-04-05 to 2027-04-08"
+      }
+    },
+    "notification": {
+      "label": "Paper notification",
+      "value": {
+        "type": "date",
+        "value": "2027-04-23",
+        "raw": "2027-04-23"
+      }
+    },
+    "early_registration": {
+      "label": "Early registration",
+      "value": {
+        "type": "date",
+        "value": "2027-05-18",
+        "raw": "2027-05-18"
+      }
+    },
+    "workshop_proposal": {
+      "label": "Workshop proposal",
+      "value": {
+        "type": "date",
+        "value": "2026-09-15",
+        "raw": "2026-09-15"
+      }
+    },
+    "workshop_notification": {
+      "label": "Workshop proposal notification",
+      "value": {
+        "type": "date",
+        "value": "2026-10-01",
+        "raw": "2026-10-01"
+      }
+    },
+    "workshop_call": {
+      "label": "Workshop call for contributions",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "2027-01-01"
+      }
+    },
+    "tool_artifact_registration": {
+      "label": "Tool-paper artifact registration",
+      "value": {
+        "type": "date",
+        "value": "2027-03-08",
+        "raw": "2027-03-08"
+      }
+    },
+    "tool_artifact_submission": {
+      "label": "Tool-paper artifact submission",
+      "value": {
+        "type": "date",
+        "value": "2027-03-11",
+        "raw": "2027-03-11"
+      }
+    },
+    "tool_artifact_revision": {
+      "label": "Tool-paper artifact smoke-test revision",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-22",
+        "end": "2027-03-25",
+        "raw": "2027-03-22 to 2027-03-25"
+      }
+    },
+    "regular_artifact_registration": {
+      "label": "Regular-paper artifact registration",
+      "value": {
+        "type": "date",
+        "value": "2027-04-26",
+        "raw": "2027-04-26"
+      }
+    },
+    "regular_artifact_submission": {
+      "label": "Regular-paper artifact submission",
+      "value": {
+        "type": "date",
+        "value": "2027-05-03",
+        "raw": "2027-05-03"
+      }
+    },
+    "regular_artifact_revision": {
+      "label": "Regular-paper artifact smoke-test revision",
+      "value": {
+        "type": "date_range",
+        "start": "2027-05-11",
+        "end": "2027-05-14",
+        "raw": "2027-05-11 to 2027-05-14"
+      }
+    },
+    "regular_artifact_notification": {
+      "label": "Regular-paper artifact notification",
+      "value": {
+        "type": "date",
+        "value": "2027-05-28",
+        "raw": "2027-05-28"
+      }
+    }
+  },
+  "related": []
+}

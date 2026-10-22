@@ -1,0 +1,43 @@
+{
+  "id": "frida-2027",
+  "title": "FRIDA 2027 — Formal Reasoning in Distributed Algorithms",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/frida-2027",
+  "notes": [
+    "Call for talks; proposals may describe new or ongoing work, published results, tools, experience reports, position statements, or open problems. Submission deadlines are AoE (UTC-12)."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Talk proposal submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-06",
+        "raw": "November 6, 2026 AoE"
+      }
+    },
+    "notification": {
+      "label": "Notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-20",
+        "raw": "November 20, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "January 11, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

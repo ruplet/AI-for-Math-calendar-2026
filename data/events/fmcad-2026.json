@@ -1,0 +1,52 @@
+{
+  "id": "fmcad-2026",
+  "title": "FMCAD 2026",
+  "kind": "conference",
+  "year": 2026,
+  "location": "Graz, Austria",
+  "source_url": "https://fmcad.org/FMCAD26/important_dates/",
+  "notes": [
+    "Added in the October 2026 review.",
+    "Co-located with VSTTE 2026: https://fmcad.org/FMCAD26/vstte/"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Abstract submission",
+      "value": {
+        "type": "date",
+        "value": "2026-05-04",
+        "raw": "May 4, 2026, 11:59 pm AoE"
+      }
+    },
+    "paper": {
+      "label": "Paper submission",
+      "value": {
+        "type": "date",
+        "value": "2026-05-11",
+        "raw": "May 11, 2026, 11:59 pm AoE"
+      }
+    },
+    "student_forum_abstract": {
+      "label": "Student Forum abstract submission",
+      "value": {
+        "type": "date",
+        "value": "2026-06-21",
+        "raw": "June 21, 2026, 11:59 pm AoE"
+      }
+    },
+    "student_forum_submission": {
+      "label": "Student Forum submission",
+      "value": {
+        "type": "date",
+        "value": "2026-06-28",
+        "raw": "June 28, 2026, 11:59 pm AoE"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "vstte-2026"
+    }
+  ]
+}

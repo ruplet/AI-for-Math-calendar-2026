@@ -1,0 +1,72 @@
+{
+  "id": "pldi-2027",
+  "title": "PLDI 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Atlanta, Georgia, USA",
+  "source_url": "https://pldi27.sigplan.org/dates",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-12",
+        "raw": "2026-11-12"
+      }
+    },
+    "response": {
+      "label": "Author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-02-16",
+        "end": "2027-02-18",
+        "raw": "February 16 to 18, 2027"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2027-03-04",
+        "raw": "2027-03-04"
+      }
+    },
+    "revision": {
+      "label": "Revision deadline",
+      "value": {
+        "type": "date",
+        "value": "2027-03-23",
+        "raw": "2027-03-23"
+      }
+    },
+    "final_notification": {
+      "label": "Final acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2027-04-01",
+        "raw": "2027-04-01"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera-ready deadline",
+      "value": {
+        "type": "date",
+        "value": "2027-04-15",
+        "raw": "2027-04-15"
+      }
+    },
+    "event": {
+      "label": "PLDI and FCRC",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-05",
+        "end": "2027-06-11",
+        "raw": "June 5 to 11, 2027"
+      }
+    }
+  },
+  "related": []
+}

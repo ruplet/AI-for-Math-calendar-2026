@@ -1,0 +1,35 @@
+{
+  "id": "pepm-2027",
+  "title": "PEPM 2027 — Partial Evaluation and Program Manipulation",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/pepm-2027",
+  "notes": [
+    "Submission deadline is end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-23",
+        "raw": "October 23, 2026 AoE"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-12",
+        "raw": "January 12, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "rocqpl-2027",
+  "title": "RocqPL 2027",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/rocqpl-2027",
+  "notes": [],
+  "dates": {
+    "submission": {
+      "label": "Presentation submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-23",
+        "raw": "2026-10-23"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-20",
+        "raw": "November 20, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-16",
+        "raw": "January 16, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

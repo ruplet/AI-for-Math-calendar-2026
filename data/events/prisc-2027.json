@@ -1,0 +1,43 @@
+{
+  "id": "prisc-2027",
+  "title": "PriSC 2027 — Principles of Secure Compilation",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/prisc-2027",
+  "notes": [
+    "The submission deadline was extended to October 22, 2026; deadlines are AoE (UTC-12)."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Submission deadline (extended)",
+      "value": {
+        "type": "date",
+        "value": "2026-10-22",
+        "raw": "October 22, 2026 AoE"
+      }
+    },
+    "notification": {
+      "label": "Acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2026-12-03",
+        "raw": "December 3, 2026"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "January 11, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "ijcai-2027",
+  "title": "IJCAI 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Kyoto, Japan",
+  "source_url": "https://2027.ijcai.org/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Abstract",
+      "value": {
+        "type": "date",
+        "value": "2027-01-04",
+        "raw": "2027-01-04"
+      }
+    },
+    "paper": {
+      "label": "Full paper",
+      "value": {
+        "type": "date",
+        "value": "2027-01-11",
+        "raw": "2027-01-11"
+      }
+    },
+    "notification": {
+      "label": "Paper notification",
+      "value": {
+        "type": "date",
+        "value": "2027-04-21",
+        "raw": "2027-04-21"
+      }
+    },
+    "response": {
+      "label": "Author response",
+      "value": {
+        "type": "date_range",
+        "start": "2027-03-30",
+        "end": "2027-04-02",
+        "raw": "March 30 to April 2, 2027"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera-ready copy",
+      "value": {
+        "type": "date",
+        "value": "2027-05-07",
+        "raw": "2027-05-07"
+      }
+    },
+    "event": {
+      "label": "IJCAI 2027 in Kyoto",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-07",
+        "end": "2027-08-13",
+        "raw": "August 7 to 13, 2027"
+      }
+    },
+    "satellite_event": {
+      "label": "IJCAI 2027 satellite event in Hengqin",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-15",
+        "end": "2027-08-17",
+        "raw": "August 15 to 17, 2027"
+      }
+    }
+  },
+  "related": []
+}

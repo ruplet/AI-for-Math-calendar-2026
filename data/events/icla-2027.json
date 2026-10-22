@@ -1,0 +1,55 @@
+{
+  "id": "icla-2027",
+  "title": "ICLA 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Bangalore, India",
+  "source_url": "https://conf.researchr.org/track/icla-2027/icla-2027-papers",
+  "notes": [
+    "Indian Conference on Logic and its Applications. The paper deadline was extended to September 3, 2026 AoE. Pre-conference workshops are January 5."
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper submission (extended)",
+      "value": {
+        "type": "date",
+        "value": "2026-09-03",
+        "raw": "2026-09-03"
+      }
+    },
+    "notification": {
+      "label": "Notification",
+      "value": {
+        "type": "date",
+        "value": "2026-10-31",
+        "raw": "2026-10-31"
+      }
+    },
+    "camera_ready": {
+      "label": "Camera-ready paper",
+      "value": {
+        "type": "date",
+        "value": "2026-11-11",
+        "raw": "2026-11-11"
+      }
+    },
+    "preconference_workshops": {
+      "label": "Pre-conference workshops",
+      "value": {
+        "type": "date",
+        "value": "2027-01-05",
+        "raw": "2027-01-05"
+      }
+    },
+    "event": {
+      "label": "Conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-01-06",
+        "end": "2027-01-08",
+        "raw": "2027-01-06 to 2027-01-08"
+      }
+    }
+  },
+  "related": []
+}

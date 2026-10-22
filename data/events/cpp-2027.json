@@ -1,0 +1,44 @@
+{
+  "id": "cpp-2027",
+  "title": "CPP 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/CPP-2027",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12)."
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-09-03",
+        "raw": "2026-09-03"
+      }
+    },
+    "paper": {
+      "label": "Paper",
+      "value": {
+        "type": "date",
+        "value": "2026-09-10",
+        "raw": "2026-09-10"
+      }
+    },
+    "event": {
+      "label": "CPP 2027",
+      "value": {
+        "type": "date_range",
+        "start": "2027-01-11",
+        "end": "2027-01-12",
+        "raw": "January 11 to 12, 2027"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

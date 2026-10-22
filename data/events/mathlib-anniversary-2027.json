@@ -1,0 +1,22 @@
+{
+  "id": "mathlib-anniversary-2027",
+  "title": "Mathlib Anniversary Event 2027",
+  "kind": "workshop",
+  "year": 2027,
+  "source_url": "https://leanprover-community.github.io/events.html",
+  "notes": [
+    "Listed by the Lean community events calendar as a workshop; location is TBA."
+  ],
+  "dates": {
+    "event": {
+      "label": "Event (listed dates)",
+      "value": {
+        "type": "date_range",
+        "start": "2027-07-19",
+        "end": "2027-07-23",
+        "raw": "2027-07-19 to 2027-07-23"
+      }
+    }
+  },
+  "related": []
+}

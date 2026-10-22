@@ -1,0 +1,35 @@
+{
+  "id": "itp-2027",
+  "title": "ITP 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Glasgow, Scotland",
+  "source_url": "https://itp-conference-2027.github.io/",
+  "notes": [
+    "The organizer page shows August 2–7, 2027 in its heading but says dates are not finalized and expects the last week of July or first week of August; treat the displayed range as provisional. Co-located with the SPLV summer school in Edinburgh."
+  ],
+  "dates": {
+    "dates_check": {
+      "label": "Reminder: re-check ITP dates and submission deadlines (not a deadline)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-01",
+        "raw": "January 1, 2027"
+      }
+    },
+    "event": {
+      "label": "Conference (provisional)",
+      "value": {
+        "type": "approximate",
+        "value": "2027-08-02 to 2027-08-07",
+        "raw": "August 2–7, 2027 (provisional)"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "colocated_with",
+      "event_id": "splv-2027"
+    }
+  ]
+}

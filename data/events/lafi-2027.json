@@ -1,0 +1,35 @@
+{
+  "id": "lafi-2027",
+  "title": "LAFI 2027 — Languages for Inference",
+  "kind": "workshop",
+  "year": 2027,
+  "location": "Mexico City, Mexico",
+  "source_url": "https://popl27.sigplan.org/home/lafi-2027",
+  "notes": [
+    "Submission deadlines are AoE (UTC-12). The specific workshop date within POPL week has not been announced. The organizers aim to support participation without requiring travel."
+  ],
+  "dates": {
+    "submission": {
+      "label": "Extended abstract submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-02",
+        "raw": "November 2, 2026 AoE"
+      }
+    },
+    "notification": {
+      "label": "Author notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-27",
+        "raw": "November 27, 2026"
+      }
+    }
+  },
+  "related": [
+    {
+      "type": "parent_event",
+      "event_id": "popl-2027"
+    }
+  ]
+}

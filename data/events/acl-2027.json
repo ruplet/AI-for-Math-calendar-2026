@@ -1,0 +1,59 @@
+{
+  "id": "acl-2027",
+  "title": "ACL 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Kyoto, Japan",
+  "source_url": "https://2027.aclweb.org/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "ARR review submission and conference commitment are separate steps.",
+    "ARR commitment deadline, notification, and camera-ready dates are listed as TBA on the official site."
+  ],
+  "dates": {
+    "arr_submission": {
+      "label": "ARR submission (long and short papers)",
+      "value": {
+        "type": "date",
+        "value": "2027-01-04",
+        "raw": "2027-01-04"
+      }
+    },
+    "event": {
+      "label": "ACL 2027 meeting, including tutorials and workshops",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-17",
+        "end": "2027-08-22",
+        "raw": "2027-08-17 to 2027-08-22"
+      }
+    },
+    "main_conference": {
+      "label": "Main conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-20",
+        "end": "2027-08-22",
+        "raw": "2027-08-20 to 2027-08-22"
+      }
+    },
+    "tutorials": {
+      "label": "Tutorials",
+      "value": {
+        "type": "date",
+        "value": "2027-08-17",
+        "raw": "2027-08-17"
+      }
+    },
+    "workshops": {
+      "label": "Workshops",
+      "value": {
+        "type": "date_range",
+        "start": "2027-08-18",
+        "end": "2027-08-19",
+        "raw": "2027-08-18 to 2027-08-19"
+      }
+    }
+  },
+  "related": []
+}

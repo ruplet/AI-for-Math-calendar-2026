@@ -1,0 +1,57 @@
+{
+  "id": "stoc-2027",
+  "title": "STOC 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Atlanta, Georgia, USA",
+  "source_url": "https://acm-stoc.org/stoc2027/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "STOC requires a mandatory video submission.",
+    "The Danny Lewin Best Student Paper Award is for papers whose authors are all full-time students at submission; authors must indicate eligibility during submission registration."
+  ],
+  "dates": {
+    "paper": {
+      "label": "Paper",
+      "value": {
+        "type": "date",
+        "value": "2026-11-02",
+        "raw": "2026-11-02"
+      }
+    },
+    "video_submission": {
+      "label": "Mandatory video submission",
+      "value": {
+        "type": "date",
+        "value": "2026-11-16",
+        "raw": "2026-11-16"
+      }
+    },
+    "workshop_proposal": {
+      "label": "Workshop proposal",
+      "value": {
+        "type": "date",
+        "value": "2027-04-01",
+        "raw": "2027-04-01"
+      }
+    },
+    "notification": {
+      "label": "Submitted papers notification",
+      "value": {
+        "type": "date",
+        "value": "2027-02-01",
+        "raw": "2027-02-01"
+      }
+    },
+    "event": {
+      "label": "STOC and TCS+AI day",
+      "value": {
+        "type": "date_range",
+        "start": "2027-06-06",
+        "end": "2027-06-11",
+        "raw": "June 6 to 11, 2027"
+      }
+    }
+  },
+  "related": []
+}

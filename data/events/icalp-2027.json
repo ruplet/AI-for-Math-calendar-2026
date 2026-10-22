@@ -1,0 +1,66 @@
+{
+  "id": "icalp-2027",
+  "title": "ICALP 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Kraków, Poland",
+  "source_url": "https://icalp.uj.edu.pl/home/#home",
+  "notes": [
+    "Track B uses two submission rounds; a paper may be submitted to only one round. Track A has one round. Track A and Track B second-round submission dates are not yet announced; EATCS lists them as February 2027.",
+    "Papers authored only by students must be marked at submission to qualify for the Best Student Paper Award for their track. Source: https://icalp.uj.edu.pl/track-b/",
+    "Workshops are July 4; main conference is July 5–9. Source: https://eatcs.org/index.php/future-icalps"
+  ],
+  "dates": {
+    "paper_track_b_round_1": {
+      "label": "Track B round 1 paper",
+      "value": {
+        "type": "date",
+        "value": "2026-09-15",
+        "raw": "2026-09-15"
+      }
+    },
+    "rebuttal_track_b_round_1": {
+      "label": "Track B round 1 rebuttal",
+      "value": {
+        "type": "date_range",
+        "start": "2026-11-05",
+        "end": "2026-11-09",
+        "raw": "November 5 to 9, 2026"
+      }
+    },
+    "notification_track_b_round_1": {
+      "label": "Track B round 1 notification",
+      "value": {
+        "type": "date",
+        "value": "2026-12-08",
+        "raw": "December 8, 2026"
+      }
+    },
+    "reminder_second_round_dates": {
+      "label": "Reminder: check ICALP second-round submission dates",
+      "value": {
+        "type": "date",
+        "value": "2026-12-08",
+        "raw": "December 8, 2026"
+      }
+    },
+    "workshops": {
+      "label": "Workshops",
+      "value": {
+        "type": "date",
+        "value": "2027-07-04",
+        "raw": "July 4, 2027"
+      }
+    },
+    "event": {
+      "label": "Main conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-07-05",
+        "end": "2027-07-09",
+        "raw": "July 5 to 9, 2027"
+      }
+    }
+  },
+  "related": []
+}

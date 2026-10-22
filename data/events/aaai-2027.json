@@ -1,0 +1,208 @@
+{
+  "id": "aaai-2027",
+  "title": "AAAI 2027",
+  "kind": "conference",
+  "year": 2027,
+  "location": "Montréal, Canada",
+  "source_url": "https://aaai.org/conference/aaai/aaai-27/main-technical-track-call/",
+  "notes": [
+    "Submission deadlines are end of day Anywhere on Earth (UTC-12).",
+    "Student Abstract and Poster Program is open to undergraduate, master’s, and doctoral students; deadlines are Anywhere on Earth.",
+    "Undergraduate Consortium application and camera-ready deadlines are for undergraduate students; the application deadline is October 5, 2026.",
+    "Student Scholar Volunteer Program offers partial travel support to eligible student volunteers; application dates are Eastern Time.",
+    "Student opportunity sources: https://aaai.org/conference/aaai/aaai-27/student-abstract-and-poster-program-call-for-proposals/ ; https://aaai.org/conference/aaai/aaai-27/undergraduate-consortium-call-for-participation/ ; https://aaai.org/conference/aaai/aaai-27/student-scholar-volunteer-program/",
+    "The Doctoral Consortium is for PhD students and may provide complimentary registration and travel support; funding decisions follow acceptance. Author-feedback dates follow the updated official attendance page.",
+    "Doctoral Consortium source: https://aaai.org/conference/aaai/aaai-27/thirty-second-aaai-sigai-doctoral-consortium-call-for-proposals/"
+  ],
+  "dates": {
+    "abstract": {
+      "label": "Main track abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-07-21",
+        "raw": "2026-07-21"
+      }
+    },
+    "full_paper": {
+      "label": "Main track full paper",
+      "value": {
+        "type": "date",
+        "value": "2026-07-28",
+        "raw": "2026-07-28"
+      }
+    },
+    "event": {
+      "label": "AAAI-27 conference",
+      "value": {
+        "type": "date_range",
+        "start": "2027-02-16",
+        "end": "2027-02-23",
+        "raw": "2027-02-16 to 2027-02-23"
+      }
+    },
+    "student_abstract": {
+      "label": "Student Abstract and Poster Program abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-09-28",
+        "raw": "2026-09-28"
+      }
+    },
+    "student_abstract_notification": {
+      "label": "Student Abstract and Poster Program notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-13",
+        "raw": "2026-11-13"
+      }
+    },
+    "student_abstract_camera_ready": {
+      "label": "Student Abstract and Poster Program camera-ready",
+      "value": {
+        "type": "date",
+        "value": "2026-12-04",
+        "raw": "2026-12-04"
+      }
+    },
+    "student_abstract_poster": {
+      "label": "Student Abstract and Poster Program",
+      "value": {
+        "type": "date",
+        "value": "2027-02-19",
+        "raw": "2027-02-19"
+      }
+    },
+    "undergraduate_consortium_application": {
+      "label": "Undergraduate Consortium application",
+      "value": {
+        "type": "date",
+        "value": "2026-10-05",
+        "raw": "2026-10-05"
+      }
+    },
+    "undergraduate_consortium_notification": {
+      "label": "Undergraduate Consortium notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-09",
+        "raw": "2026-11-09"
+      }
+    },
+    "undergraduate_consortium_camera_ready": {
+      "label": "Undergraduate Consortium camera-ready",
+      "value": {
+        "type": "date",
+        "value": "2026-12-14",
+        "raw": "2026-12-14"
+      }
+    },
+    "undergraduate_consortium": {
+      "label": "Undergraduate Consortium",
+      "value": {
+        "type": "date_range",
+        "start": "2027-02-16",
+        "end": "2027-02-17",
+        "raw": "2027-02-16 to 2027-02-17"
+      }
+    },
+    "student_volunteer_application_open": {
+      "label": "Student Scholar Volunteer Program application opens",
+      "value": {
+        "type": "date",
+        "value": "2026-11-30",
+        "raw": "2026-11-30"
+      }
+    },
+    "student_volunteer_application_deadline": {
+      "label": "Student Scholar Volunteer Program application deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-12-04",
+        "raw": "2026-12-04"
+      }
+    },
+    "supplementary_material": {
+      "label": "Supplementary material and code",
+      "value": {
+        "type": "date",
+        "value": "2026-07-31",
+        "raw": "2026-07-31"
+      }
+    },
+    "phase_one_rejection": {
+      "label": "Phase 1 rejection notification",
+      "value": {
+        "type": "date",
+        "value": "2026-09-24",
+        "raw": "2026-09-24"
+      }
+    },
+    "author_feedback": {
+      "label": "Main technical track author feedback",
+      "value": {
+        "type": "date_range",
+        "start": "2026-10-24",
+        "end": "2026-10-31",
+        "raw": "2026-10-24 to 2026-10-31"
+      }
+    },
+    "final_decision": {
+      "label": "Main technical track final decision",
+      "value": {
+        "type": "date",
+        "value": "2026-11-30",
+        "raw": "2026-11-30"
+      }
+    },
+    "camera_ready": {
+      "label": "Main technical track camera-ready",
+      "value": {
+        "type": "date",
+        "value": "2026-12-14",
+        "raw": "2026-12-14"
+      }
+    },
+    "doctoral_consortium_application": {
+      "label": "Doctoral Consortium application",
+      "value": {
+        "type": "date",
+        "value": "2026-10-13",
+        "raw": "2026-10-13"
+      }
+    },
+    "doctoral_consortium_acceptance": {
+      "label": "Doctoral Consortium acceptance notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-14",
+        "raw": "2026-11-14"
+      }
+    },
+    "doctoral_consortium_funding": {
+      "label": "Doctoral Consortium funding notification",
+      "value": {
+        "type": "date",
+        "value": "2026-11-23",
+        "raw": "2026-11-23"
+      }
+    },
+    "doctoral_consortium_camera_ready": {
+      "label": "Doctoral Consortium thesis summary camera-ready",
+      "value": {
+        "type": "date",
+        "value": "2026-12-05",
+        "raw": "2026-12-05"
+      }
+    },
+    "doctoral_consortium": {
+      "label": "Doctoral Consortium",
+      "value": {
+        "type": "date_range",
+        "start": "2027-02-16",
+        "end": "2027-02-17",
+        "raw": "2027-02-16 to 2027-02-17"
+      }
+    }
+  },
+  "related": []
+}
