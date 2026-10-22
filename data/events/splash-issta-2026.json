@@ -4,8 +4,14 @@
   "kind": "event",
   "year": 2026,
   "location": null,
-  "source_url": "https://2026.splashcon.org/track/splash-issta-2026-student-volunteers",
-  "notes": [],
+  "source_url": "https://2026.splashcon.org/",
+  "notes": [
+    "Student volunteer application and dates: https://2026.splashcon.org/track/splash-issta-2026-student-volunteers",
+    "Student volunteer page: https://conf.researchr.org/track/splash-issta-2026/splash-issta-2026-student-volunteers",
+    "Conference information and important dates: https://2026.splashcon.org/",
+    "Student Research Competition call and deadlines: https://conf.researchr.org/track/splash-issta-2026/splash-issta-2026-student-research-competition#call-Call-for-the-Student-Research-Competition",
+    "SPLASH artifact-evaluation dates: https://2026.splashcon.org/track/splash-2026-artifact-evaluation"
+  ],
   "dates": {
     "doctoral_symposium_author_notification": {
       "label": "doctoral symposium author notification",
@@ -34,9 +40,9 @@
     "posters_camera_ready": {
       "label": "posters camera-ready",
       "value": {
-        "raw": "`2026-08-07`",
+        "raw": "`2026-08-21` AoE",
         "type": "date",
-        "value": "2026-08-07"
+        "value": "2026-08-21"
       }
     },
     "posters_notification": {
@@ -66,9 +72,9 @@
     "student_research_competition_camera_ready": {
       "label": "Student Research Competition camera-ready",
       "value": {
-        "raw": "`2026-08-07`",
+        "raw": "`2026-08-21` AoE",
         "type": "date",
-        "value": "2026-08-07"
+        "value": "2026-08-21"
       }
     },
     "student_research_competition_notification": {
@@ -90,9 +96,9 @@
     "tool_demonstrations_camera_ready": {
       "label": "tool demonstrations camera-ready",
       "value": {
-        "raw": "`2026-08-07`",
+        "raw": "`2026-08-21` AoE",
         "type": "date",
-        "value": "2026-08-07"
+        "value": "2026-08-21"
       }
     },
     "tool_demonstrations_notification": {
@@ -133,6 +139,64 @@
         "raw": "`2026-01-17`",
         "type": "date",
         "value": "2026-01-17"
+      }
+    },
+    "volunteer_deadline": {
+      "label": "application deadline",
+      "value": {
+        "raw": "`2026-07-19` AoE",
+        "type": "date",
+        "value": "2026-07-19"
+      }
+    },
+    "artifact_submission_round_1": {
+      "label": "artifact submission (Round 1)",
+      "value": {
+        "raw": "`2026-02-05`",
+        "type": "date",
+        "value": "2026-02-05"
+      }
+    },
+    "artifact_submission_round_2": {
+      "label": "artifact submission (Round 2)",
+      "value": {
+        "raw": "`2026-07-23`",
+        "type": "date",
+        "value": "2026-07-23"
+      }
+    },
+    "kick_the_tires_round_1": {
+      "label": "kick-the-tires (Round 1)",
+      "value": {
+        "raw": "`2026-02-09` to `2026-02-16`",
+        "type": "date_range",
+        "start": "2026-02-09",
+        "end": "2026-02-16"
+      }
+    },
+    "kick_the_tires_round_2": {
+      "label": "kick-the-tires (Round 2)",
+      "value": {
+        "raw": "`2026-07-27` to `2026-08-03`",
+        "type": "date_range",
+        "start": "2026-07-27",
+        "end": "2026-08-03"
+      }
+    },
+    "notification_round_1": {
+      "label": "notification (Round 1)",
+      "value": {
+        "raw": "`2026-03-16`",
+        "type": "date",
+        "value": "2026-03-16"
+      }
+    },
+    "notification_round_2": {
+      "label": "notification (Round 2)",
+      "value": {
+        "raw": "`2026-08-30`",
+        "type": "date",
+        "value": "2026-08-30"
       }
     }
   },
