@@ -1,0 +1,31 @@
+{
+  "id": "formal-conjectures-workshop-2026",
+  "title": "Formal Conjectures Workshop 2026",
+  "kind": "workshop",
+  "year": 2026,
+  "location": "Central London, UK",
+  "source_url": "https://leanprover.zulipchat.com/#narrow/channel/524981-Formal-conjectures/topic/Workshop.20in.20London.20in.20September/near/606403039",
+  "notes": [
+    "Participants work in small groups to add unsolved conjectures and related results to the Formal Conjectures Lean repository; proving the conjectures is not the goal. The workshop was funded by a Google donation."
+  ],
+  "dates": {
+    "application": {
+      "label": "Registration / application deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-07-12",
+        "raw": "July 12, 2026, 23:59 UK time"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date_range",
+        "start": "2026-09-07",
+        "end": "2026-09-11",
+        "raw": "September 7–11, 2026"
+      }
+    }
+  },
+  "related": []
+}

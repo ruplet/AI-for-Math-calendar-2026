@@ -1,0 +1,30 @@
+{
+  "id": "fp-dag-2027",
+  "title": "Dutch Functional Programming Day 2027 (FP Dag)",
+  "kind": "event",
+  "year": 2027,
+  "location": "Utrecht, Netherlands",
+  "source_url": "https://wouter-swierstra.github.io/fp-dag",
+  "notes": [
+    "Researchers, students, and practitioners are welcome; registration is free, with coffee and lunch provided. Registration: https://edu.nl/ygkvt"
+  ],
+  "dates": {
+    "registration": {
+      "label": "Registration deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-12-18",
+        "raw": "December 18, 2026"
+      }
+    },
+    "event": {
+      "label": "FP Dag",
+      "value": {
+        "type": "date",
+        "value": "2027-01-08",
+        "raw": "January 8, 2027"
+      }
+    }
+  },
+  "related": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bristol-lean-focus-week-2026",
+  "title": "Lean Focus Week 2026 (Bristol)",
+  "kind": "workshop",
+  "year": 2026,
+  "location": "University of Bristol, Bristol, UK",
+  "source_url": "https://bristol-lean.github.io/blue/events/",
+  "notes": [
+    "Designed for varied experience levels. Limited funding is available for external participants, especially students and early-career researchers. Registration is closed."
+  ],
+  "dates": {
+    "event": {
+      "label": "Lean Focus Week",
+      "value": {
+        "type": "date_range",
+        "start": "2026-10-26",
+        "end": "2026-10-30",
+        "raw": "October 26–30, 2026"
+      }
+    }
+  },
+  "related": []
+}

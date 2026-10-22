@@ -1,0 +1,55 @@
+{
+  "id": "nwpt-2026",
+  "title": "36th Nordic Workshop on Programming Theory (NWPT 2026)",
+  "kind": "workshop",
+  "year": 2026,
+  "location": "University of Tartu, Tartu, Estonia",
+  "source_url": "https://kodu.ut.ee/~nester/nwpt-2026/main.html",
+  "notes": [
+    "The workshop especially targets younger researchers; PhD students and postdocs are encouraged to contribute."
+  ],
+  "dates": {
+    "abstract_submission": {
+      "label": "Abstract submission",
+      "value": {
+        "type": "date",
+        "value": "2026-10-10",
+        "raw": "October 10, 2026, 23:59 AoE"
+      }
+    },
+    "notification": {
+      "label": "Notification",
+      "value": {
+        "type": "date",
+        "value": "2026-10-30",
+        "raw": "October 30, 2026"
+      }
+    },
+    "registration": {
+      "label": "Registration deadline",
+      "value": {
+        "type": "date",
+        "value": "2026-11-02",
+        "raw": "November 2, 2026, 23:59 AoE"
+      }
+    },
+    "final_abstract": {
+      "label": "Final version of abstract",
+      "value": {
+        "type": "date",
+        "value": "2026-11-06",
+        "raw": "November 6, 2026, 23:59 AoE"
+      }
+    },
+    "event": {
+      "label": "Workshop",
+      "value": {
+        "type": "date_range",
+        "start": "2026-11-19",
+        "end": "2026-11-20",
+        "raw": "November 19–20, 2026"
+      }
+    }
+  },
+  "related": []
+}
